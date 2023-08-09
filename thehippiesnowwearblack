@@ -1,0 +1,1727 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://thehippiesnowwearblack.org.uk/xmlrpc.php">
+
+<title>Exhibition to celebrate The Station, The Garage and The Bunker, November 2023 &#8211; The Hippies Now Wear Black</title>
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Merriweather:r:latin,latin-ext","Merriweather+Sans:r,i,b,bi:latin,latin-ext"]},"api_url":"https:\/\/fonts-api.wp.com\/css"};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s0.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active body{font-family:"Merriweather Sans",sans-serif}.wf-active .search-container .search-field{font-family:"Merriweather Sans",sans-serif}.wf-active .blog-description{font-family:"Merriweather Sans",sans-serif}.wf-active .post-content p.page-links{font-family:"Merriweather Sans",sans-serif}.wf-active .post-content{font-family:"Merriweather Sans",sans-serif}.wf-active .post-content h4, .wf-active .post-content h5, .wf-active .post-content h6{font-family:"Merriweather Sans",sans-serif}.wf-active .post-content blockquote p{font-family:"Merriweather Sans",sans-serif}.wf-active .post-content blockquote cite{font-family:"Merriweather Sans",sans-serif}.wf-active .post-content .gallery-caption, .wf-active .post-content .wp-caption-text{font-family:"Merriweather Sans",sans-serif}.wf-active .post-content fieldset legend{font-family:"Merriweather Sans",sans-serif}.wf-active .post-content label{font-family:"Merriweather Sans",sans-serif}.wf-active .post-content input, .wf-active .post-content textarea{font-family:"Merriweather Sans",sans-serif}.wf-active .pingbacklist li:before{font-family:"Merriweather Sans",sans-serif}.wf-active .comments-nav .fleft a:before{font-family:"Merriweather Sans",sans-serif}.wf-active .comments-nav .fright a:after{font-family:"Merriweather Sans",sans-serif}.wf-active .comment-respond input[type="text"], .wf-active .comment-respond textarea{font-family:"Merriweather Sans",sans-serif}.wf-active .comment-respond input[type="submit"]{font-family:"Merriweather Sans",sans-serif}.wf-active .wrapper .search-field{font-family:"Merriweather Sans",sans-serif}.wf-active .comment-respond#respond{font-family:"Merriweather Sans",sans-serif}.wf-active .blog-title{font-weight:400;font-style:normal}.wf-active .post-title{font-family:"Merriweather",serif;font-weight:400;font-style:normal}.wf-active .single-post .post-title{font-weight:400;font-style:normal}.wf-active .related-posts-title{font-weight:400;font-style:normal}.wf-active .post-content h1, .wf-active .post-content h2, .wf-active .post-content h3{font-family:"Merriweather",serif;font-weight:400;font-style:normal}.wf-active .post-content h1, .wf-active .post-content h2, .wf-active .post-content h3{font-family:"Merriweather",serif;font-weight:400;font-style:normal}.wf-active .post-content h1{font-style:normal;font-weight:400}.wf-active .post-content h2{font-style:normal;font-weight:400}.wf-active .post-content h3{font-style:normal;font-weight:400}.wf-active .comment-reply-title, .wf-active .comments-title{font-weight:400;font-style:normal}.wf-active .comment-reply-title .fa, .wf-active .comments-title .fa{font-style:normal;font-weight:400}.wf-active .widget-title{font-weight:400;font-style:normal}.wf-active .widget_rss li a{font-family:"Merriweather",serif;font-weight:400;font-style:normal}.wf-active .rowling-widget-list .title{font-family:"Merriweather",serif;font-weight:400;font-style:normal}.wf-active .post-content div#jp-relatedposts h3.jp-relatedposts-headline{font-family:"Merriweather",serif;font-style:normal;font-weight:400}</style>
+<meta name='robots' content='max-image-preview:large' />
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+
+<!-- Async WordPress.com Remote Login -->
+<script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.parentNode.removeChild( dom_node ); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[ i ].parentNode.removeChild( dom_nodes[ i ] );
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+					+ '//' + window.location.hostname
+					+ '&postid=6617'
+					+ '&is_singular=1';
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly90aGVoaXBwaWVzbm93d2VhcmJsYWNrLm9yZy51aw%3D%3D"
+		+ "&wpcomid=566357"
+		+ "&time=1691573033";
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts-api.wp.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="The Hippies Now Wear Black &raquo; Feed" href="https://thehippiesnowwearblack.org.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Hippies Now Wear Black &raquo; Comments Feed" href="https://thehippiesnowwearblack.org.uk/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Hippies Now Wear Black &raquo; Exhibition to celebrate The Station, The Garage and The Bunker, November&nbsp;2023 Comments Feed" href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1677072837i&ver=6.3-RC1-56294"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){if("undefined"!=typeof sessionStorage)try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function f(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function u(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){if("undefined"!=typeof sessionStorage&&o in sessionStorage)try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+u.toString()+"("+[JSON.stringify(s),f.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=u(s,f,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJyFkFtuwyAQRTdUGLuxouaj6lIqDCNEwkvM4Mi7D7VcN2mT5gfpMPfeecA5C50iY2QIVWRfrYsER+Ss9GlloBohJFM9EhT0itGInIh/kdREL3A/0bsT/uQu9Ef+rbW14YjFtkpBmPq93MkOxuq8gdGnJWAsqsxAPHv8r++dTdavzwmjSQVU5RQUs9ObeHIGUy5IdNMUjeNmWIBgEbUXz1t/F7Wv5mtPgtDUCj2GZaAryF7NWIRHq/Qsg4vP7a12zTemx8db59xuruZUWdjizIOzPY0oil209MSu02p7lf2b7AW5kD2KgpMcwDjiTSG2oI/w3u8P3dAd+t1wvACv6PjU&cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+.wp-block-cover__image-background.has-parallax {
+	background-size: cover;
+}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-1' href='https://s0.wp.com/_static/??-eJx9jcEKg0AMRH+oaVhorR7Eb9E16IpZg8min2889FZ6GYbhPQYPgbhlo2zIBWQtU8qKcdvJd5be0AmmMfW0Ejv2jKoP/K0daZzIXNdvB6PzvyJ+A8MgO6mCJ6fCYLN/6e113IZXU9WfUL/DcgHSTkDo&cssminify=yes' type='text/css' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans';--wp--preset--font-family--alegreya: Alegreya;--wp--preset--font-family--arvo: Arvo;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda';--wp--preset--font-family--cabin: Cabin;--wp--preset--font-family--chivo: Chivo;--wp--preset--font-family--commissioner: Commissioner;--wp--preset--font-family--cormorant: Cormorant;--wp--preset--font-family--courier-prime: 'Courier Prime';--wp--preset--font-family--crimson-pro: 'Crimson Pro';--wp--preset--font-family--dm-mono: 'DM Mono';--wp--preset--font-family--dm-sans: 'DM Sans';--wp--preset--font-family--domine: Domine;--wp--preset--font-family--eb-garamond: 'EB Garamond';--wp--preset--font-family--epilogue: Epilogue;--wp--preset--font-family--figtree: Figtree;--wp--preset--font-family--fira-sans: 'Fira Sans';--wp--preset--font-family--fraunces: Fraunces;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono';--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans';--wp--preset--font-family--inter: Inter;--wp--preset--font-family--josefin-sans: 'Josefin Sans';--wp--preset--font-family--jost: Jost;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville';--wp--preset--font-family--libre-franklin: 'Libre Franklin';--wp--preset--font-family--literata: Literata;--wp--preset--font-family--lora: Lora;--wp--preset--font-family--merriweather: Merriweather;--wp--preset--font-family--montserrat: Montserrat;--wp--preset--font-family--newsreader: Newsreader;--wp--preset--font-family--nunito: Nunito;--wp--preset--font-family--open-sans: 'Open Sans';--wp--preset--font-family--overpass: Overpass;--wp--preset--font-family--petrona: Petrona;--wp--preset--font-family--piazzolla: Piazzolla;--wp--preset--font-family--playfair-display: 'Playfair Display';--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans';--wp--preset--font-family--poppins: Poppins;--wp--preset--font-family--raleway: Raleway;--wp--preset--font-family--roboto-slab: 'Roboto Slab';--wp--preset--font-family--roboto: Roboto;--wp--preset--font-family--rubik: Rubik;--wp--preset--font-family--sora: Sora;--wp--preset--font-family--source-sans-pro: 'Source Sans Pro';--wp--preset--font-family--source-serif-pro: 'Source Serif Pro';--wp--preset--font-family--space-mono: 'Space Mono';--wp--preset--font-family--texturina: Texturina;--wp--preset--font-family--work-sans: 'Work Sans';--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+</style>
+<link rel='stylesheet' id='fonts-css' href='https://fonts-api.wp.com/css?family=Lato%3A400%2C700%2C900%2C400italic%2C700italic%7CMerriweather%3A700%2C900%2C400italic&#038;subset=latin%2Clatin-ext' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-6-1' href='https://s0.wp.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WLyhN0i/KL8/JzEvXTwNK6SaWpxbn56aicPSSi4t19PFrLi6pzAErtM+1NTQzMTMyMjI2sMwCAOXUKg0=&cssminify=yes' type='text/css' media='all' />
+<style id='jetpack_facebook_likebox-inline-css'>
+.widget_facebook_likebox {
+	overflow: hidden;
+}
+
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-8-1' href='https://s0.wp.com/_static/??-eJzTLy/QTc7PK0nNK9HPLdUtyClNz8wr1k9PzdfNyU9OLMnMz0Ph6KblJGYW6SUXF+voY9dalJqUk58OZKbrA1UhcUGa7HNtDU1MLU1MLMwNTbIAmkQtqg==&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='print-css-9-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035i&cssminify=yes' type='text/css' media='print' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-12-1' href='https://s0.wp.com/_static/??-eJyNjcsKAjEMRX/IGmcQHRfip0hNQ9sxTYppGfx7H7gRN+7ugcs5sFSHKo2kQemuco9ZDGZq1eP1w2BdoGjoTAaW/I2CD+H+nlniGs1W8LfonAXBFLNnxxrVvuBH1hKVZzZtIbJePL8Op3IcdtNhvxmHcZofuRVIZA==&cssminify=yes' type='text/css' media='all' />
+<script id='jetpack_related-posts-js-extra'>
+var related_posts_js_options = {"post_heading":"h4"};
+</script>
+<script id='wpcom-actionbar-placeholder-js-extra'>
+var actionbardata = {"siteID":"566357","siteURL":"https:\/\/thehippiesnowwearblack.org.uk","xhrURL":"https:\/\/thehippiesnowwearblack.org.uk\/wp-admin\/admin-ajax.php","nonce":"216d59ffcd","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021","shortlink":"https:\/\/wp.me\/p2nkN-1IJ","i18n":{"followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar"}};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??-eJx1jVsKwkAMRTdkGsRS2g9xKdJHLBnn5WRC7e4doUIV/Ao393AuLhHG4DP5jEbQhYEtgQqlfi4/YH8LlZED7jinEK3O7AUN5diP9y2jqMcr+xEHZTthIttnmiAGyfKdKsf+11v2k80QU3iun67IrE4k79I8lNK6nb3gLwSO51RGN/jizsem7ZqureuTeQGbfl0L'></script>
+<script id="rlt-proxy-js-after" type="text/javascript">
+	window.addEventListener( 'DOMContentLoaded', function() {
+		rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+	} );
+</script>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1689695215i&cssminify=yes' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thehippiesnowwearblack.wordpress.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/" />
+<link rel='shortlink' href='https://wp.me/p2nkN-1IJ' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fthehippiesnowwearblack.org.uk%2F2023%2F08%2F08%2Fexhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fthehippiesnowwearblack.org.uk%2F2023%2F08%2F08%2Fexhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Exhibition to celebrate The Station, The Garage and The Bunker, November 2023" />
+<meta property="og:url" content="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/" />
+<meta property="og:description" content="AN EXHIBITION CELEBRATING the legacy of 1980s DIY punk culture as expressed through three venues &#8211; The Garage (Newcastle), The Station (Gateshead) and The Bunker (Sunderland) &#8211; is sched…" />
+<meta property="article:published_time" content="2023-08-08T19:22:19+00:00" />
+<meta property="article:modified_time" content="2023-08-08T22:06:24+00:00" />
+<meta property="og:site_name" content="The Hippies Now Wear Black" />
+<meta property="og:image" content="https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg" />
+<meta property="og:image:width" content="1500" />
+<meta property="og:image:height" content="998" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<meta name="twitter:creator" content="@hnwb" />
+<meta name="twitter:site" content="@hnwb" />
+<meta name="twitter:text:title" content="Exhibition to celebrate The Station, The Garage and The Bunker, November&nbsp;2023" />
+<meta name="twitter:image" content="https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel='openid.server' href='https://thehippiesnowwearblack.org.uk/?openidserver=1' />
+<link rel='openid.delegate' href='https://thehippiesnowwearblack.org.uk/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://thehippiesnowwearblack.org.uk/osd.xml" title="The Hippies Now Wear Black" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="The Hippies Now Wear Black" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="The anarcho-punk movement in the UK, 1977-1984" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://thehippiesnowwearblack.org.uk/feed/;icon-uri=https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="description" content="AN EXHIBITION CELEBRATING the legacy of 1980s DIY punk culture as expressed through three venues - The Garage (Newcastle), The Station (Gateshead) and The Bunker (Sunderland) - is scheduled to open at the Newcastle Contemporary Art (NCA) gallery in November. Gateshead Music Collective is working closely with the NCA to assemble materials for the exhibition,&hellip;" />
+<link rel="icon" href="https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=180" />
+<meta name="msapplication-TileImage" content="https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=270" />
+
+</head>
+
+	<body class="post-template-default single single-post postid-6617 single-format-standard customizer-styles-applied highlander-enabled highlander-light">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+			<nav class="top-nav">
+
+				<div class="section-inner clear-fix">
+
+					<ul class="header-top-menu">
+
+						<li id="menu-item-3775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3775"><a href="https://thehippiesnowwearblack.org.uk/category/reviews">Reviews</a></li>
+<li id="menu-item-3776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3776"><a href="https://thehippiesnowwearblack.org.uk/category/interviews">Interviews</a></li>
+<li id="menu-item-3777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3777"><a href="https://thehippiesnowwearblack.org.uk/category/obituaries">Obituaries</a></li>
+
+					</ul> <!-- /header-top-menu -->
+
+					<ul class="social-menu">
+
+						<li id="menu-item-3778" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3778"><a href="https://twitter.com/hnwb"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-3779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3779"><a href="https://www.facebook.com/The-Hippies-Now-Wear-Black-110896322270157/"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151"><a class="search-toggle" href="#"><span class="screen-reader-text">Search</span></a></li>
+					</ul> <!-- /social-menu -->
+
+				</div> <!-- /section-inner -->
+
+			</nav> <!-- /top-nav -->
+
+		
+		<div class="search-container">
+
+			<div class="section-inner">
+
+				
+<form method="get" class="search-form" action="https://thehippiesnowwearblack.org.uk/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search" value="" name="s" title="Search for:" />
+	</label>
+	<button type="submit" class="search-button"><span class="fa fw fa-search"></span><span class="screen-reader-text">Search</span></button>
+</form>
+
+			</div> <!-- /section-inner -->
+
+		</div> <!-- /search-container -->
+
+		<header class="header-wrapper">
+
+			<div class="header">
+
+				<div class="section-inner">
+
+					
+						<a href="https://thehippiesnowwearblack.org.uk/" class="site-logo-link" rel="home" itemprop="url"></a>
+						<h2 class="site-title">
+							<a href="https://thehippiesnowwearblack.org.uk/" title="The Hippies Now Wear Black &mdash; The anarcho-punk movement in the UK, 1977-1984" rel="home">The Hippies Now Wear Black</a>
+						</h2>
+
+													<h4 class="site-description">The anarcho-punk movement in the UK, 1977-1984</h4>
+						
+					
+										<div class="nav-toggle">
+
+						<div class="bars">
+							<div class="bar"></div>
+							<div class="bar"></div>
+							<div class="bar"></div>
+						</div>
+
+					</div> <!-- /nav-toggle -->
+					
+				</div> <!-- /section-inner -->
+
+			</div> <!-- /header -->
+
+						<nav class="navigation">
+
+				<div class="section-inner clear-fix">
+
+					<ul class="header-bottom-menu">
+
+					<li id="menu-item-3769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3769"><a href="https://thehippiesnowwearblack.wordpress.com">Home</a></li>
+<li id="menu-item-3772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3772"><a href="https://thehippiesnowwearblack.org.uk/projects/">Projects</a></li>
+<li id="menu-item-3771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3771"><a href="https://thehippiesnowwearblack.org.uk/writings/">Writings</a></li>
+<li id="menu-item-3773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3773"><a href="https://thehippiesnowwearblack.org.uk/about-the-author/">The author</a></li>
+<li id="menu-item-3774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3774"><a href="https://thehippiesnowwearblack.org.uk/contact/">Contact</a></li>
+
+					</ul>
+
+				</div><!-- /header-bottom-menu -->
+
+			</nav> <!-- /navigation -->
+			
+		</header> <!-- /header-wrapper -->
+
+<div class="wrapper section-inner">
+
+	<main id="main" class="content">
+
+	
+		
+		
+			<article id="post-6617" class="single clear-fix post-6617 post type-post status-publish format-standard hentry category-the-bunker category-the-garage category-the-station">
+
+				<header class="post-header">
+
+											<p class="post-categories"><a href="https://thehippiesnowwearblack.org.uk/category/the-bunker/" rel="category tag">The Bunker</a>, <a href="https://thehippiesnowwearblack.org.uk/category/the-garage/" rel="category tag">The Garage</a>, <a href="https://thehippiesnowwearblack.org.uk/category/the-station/" rel="category tag">The Station</a></p>
+					
+					<h1 class="post-title">Exhibition to celebrate The Station, The Garage and The Bunker, November&nbsp;2023</h1>
+				</header> <!-- /post-header -->
+
+				
+				<div class="post-meta">
+
+					<span class="post-meta-date">Date: <a href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/">August 8, 2023</a></span><span class="post-meta-author">Author: <a href="https://thehippiesnowwearblack.org.uk/author/thehippiesnowwearblack/">Rich Cross</a></span> 
+											<span class="post-comments">
+							<a href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/#respond"><span class="fa fw fa-comment"></span>0<span class="resp"> Comments</span></a>						</span>
+					
+					
+				</div> <!-- /post-meta -->
+
+				<div class="post-inner">
+
+					
+						<div class="post-content">
+
+							
+<figure class="wp-block-image size-large"><a href="https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg"><img data-attachment-id="6783" data-permalink="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/tyne_and_wear_exhibition/" data-orig-file="https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg" data-orig-size="1500,998" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="tyne_and_wear_exhibition" data-image-description="" data-image-caption="" data-medium-file="https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg?w=300" data-large-file="https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg?w=616" src="https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg?w=1024" alt="Tyne &amp; Wear Music/Youth Collectivism from the 1980s and beyond" class="wp-image-6783" srcset="https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg?w=1024 1024w, https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg?w=150 150w, https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg?w=300 300w, https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg?w=768 768w, https://thehippiesnowwearblack.files.wordpress.com/2023/08/tyne_and_wear_exhibition.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p><strong>AN EXHIBITION CELEBRATING the legacy of 1980s DIY punk culture as expressed through three venues &#8211; The Garage (Newcastle), The Station (Gateshead) and The Bunker (Sunderland) &#8211; is scheduled to open at the Newcastle Contemporary Art (NCA) gallery in November.</strong></p>
+
+
+
+<p>Gateshead Music Collective is working closely with the NCA to assemble materials for the exhibition, and a <a rel="noreferrer noopener" href="https://www.gofundme.com/f/youth-music-collectives" target="_blank">GoFundMe campaign</a> is currently running to raise funds to support the project. All monies raised will &#8220;contribute to hire of the venue, display materials and workshops&#8221; and in the process encourage those attending &#8220;to learn from our experiences and inform future practice.&#8221;</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>The exhibition will explore the legacy of Tyne and Wear Youth Music Collectives that started in the 1980s, to identify engagement methods that can inform current and future practice. It will feature Archival material from DIY music collectives and venues: The Garage (Newcastle), The Station (Gateshead) and The Bunker (Sunderland), that grew out of the disenchantment of rapid de-industrialisation of the region, to create a space to explore the impact these collectives had on people&#8217;s lives as part of our living cultural history.</p>
+<cite>Newcastle Contemporary Art</cite></blockquote>
+
+
+
+<p>It&#8217;s planned that the exhibition <a href="https://www.visitnca.com/exhibitions/tyne-wear-music-youth-collectivism" target="_blank" rel="noreferrer noopener">Tyne &amp; Wear Music/Youth Collectivism from the 1980s and beyond</a> will open at the NCA on 18 November 2023 and run until 16 December 2023 (on Thursdays, Fridays and Saturdays, from noon until 17:00).</p>
+
+
+
+<p>The project is being supported by the <a rel="noreferrer noopener" href="https://www.facebook.com/profile.php?id=100064783566802" target="_blank">Bunker Group 35</a> team: </p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>We are honoured to have been asked to take part in this exhibition, celebrating the Station, the Garage and the Bunker.</p>
+
+
+
+<p>The North East DIY music scene in the 1980s is an untold social history of how similar groups of young people from Newcastle and Sunderland organized themselves into collectives. Its a story that deserves to be shown to a wider audience.</p>
+<cite>Bunker Group 35</cite></blockquote>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://thehippiesnowwearblack.files.wordpress.com/2023/07/ne_exhibtion.png"><img data-attachment-id="6618" data-permalink="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/ne_exhibtion/" data-orig-file="https://thehippiesnowwearblack.files.wordpress.com/2023/07/ne_exhibtion.png" data-orig-size="1210,569" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ne_exhibtion" data-image-description="" data-image-caption="" data-medium-file="https://thehippiesnowwearblack.files.wordpress.com/2023/07/ne_exhibtion.png?w=300" data-large-file="https://thehippiesnowwearblack.files.wordpress.com/2023/07/ne_exhibtion.png?w=616" src="https://thehippiesnowwearblack.files.wordpress.com/2023/07/ne_exhibtion.png?w=1024" alt="" class="wp-image-6618" srcset="https://thehippiesnowwearblack.files.wordpress.com/2023/07/ne_exhibtion.png?w=1024 1024w, https://thehippiesnowwearblack.files.wordpress.com/2023/07/ne_exhibtion.png?w=150 150w, https://thehippiesnowwearblack.files.wordpress.com/2023/07/ne_exhibtion.png?w=300 300w, https://thehippiesnowwearblack.files.wordpress.com/2023/07/ne_exhibtion.png?w=768 768w, https://thehippiesnowwearblack.files.wordpress.com/2023/07/ne_exhibtion.png 1210w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<blockquote class="wp-block-quote">
+<h3 class="wp-block-heading">Punk Exhibition Celebrates the Legacy of Tyne and Wear Youth Music Collectives</h3>
+
+
+
+<p><strong><em>In the early ‘80s, young teenagers in Newcastle found solace and a vibrant music scene in an old, disused warehouse venue called The Garage. This iconic location became a haven for young punks, featuring performances by bands such as Total Chaos, The Reptiles, Model Workers, and The Village Idiots. This do-it-yourself music space was run by the kids, for the kids with minimal adult supervision and a huge amount of teenage angst. </em></strong></p>
+
+
+
+<p>However, after The Garage closed in 1981, the Gateshead Music Collective breathed new life into a former police club in Gateshead, known as The Station, which became the new epicentre for punk music in the area.&nbsp;</p>
+
+
+
+<p>The Station was refurbished with help from Gateshead Council and The Millfield House Trust and became the place to be for live punk music including a secret appearance by The Clash on their acoustic tour. The venue also hosted rehearsal spaces too reinforcing the community spirit and fostering the development of local bands. A similar venue, The Bunker, in Sunderland, continues to thrive today.&nbsp;</p>
+
+
+
+<p>Now, four decades later, a group of people who were part of the Garage and Station scene are coming together to host an exhibition that pays homage to the culture and significance of these venues. The exhibition will feature a captivating array of video footage, photographs, and memorabilia, including posters, that chronicle the energy and spirit of those times. Visitors will have the opportunity to delve into the punk movement’s history, explore the enduring impact of the Tyne and Wear Youth Music Collectives, and gain insights into youth engagement methods that can inform current and future practices.</p>
+
+
+
+<p>The exhibition, hosted by Newcastle Contemporary Art, will be held at their gallery on High Bridge, Newcastle, starting from the 18th of November. The opening day will be marked by a special event to commemorate the exhibition’s launch. Following the opening, the exhibition will be open to the public on weekends throughout November and December.</p>
+
+
+
+<p>Keeks McGarry, former singer with Total Chaos and now a manager of an adventure playground, eagerly anticipates the event, saying, “This exhibition is a remarkable opportunity to revisit the incredible culture that emerged from the punk venues of our youth. It’s a chance to reconnect with the spirit of those times, honour the bands and performers who shaped our lives, and inspire a new generation of music enthusiasts. I’m thrilled to be part of this exhibition and can’t wait to witness the impact it will have.”</p>
+
+
+
+<p>The group have a <a rel="noreferrer noopener" href="https://gofund.me/43f16053" target="_blank">GoFundMe</a> page for anyone wishing to donate. Email the organisers to find out more:<br><a href="mailto:gmcexhibition@gmail.com">gmcexhibition@gmail.com</a></p>
+<cite><a href="https://highlightspr.co.uk/punk-exhibition-celebrates-the-legacy-of-tyne-and-wear-youth-music-collectives/" target="_blank" rel="noreferrer noopener">Highlights PR</a><br></cite></blockquote>
+
+
+
+<p><a href="https://www.visitnca.com/" target="_blank" rel="noreferrer noopener">Newcastle Contemporary Art</a>,  High Bridge Works, 31-39 High Bridge, Newcastle upon Tyne NE1 1EW</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-6617" class="share-facebook sd-button share-icon" href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/?share=facebook" target="_blank" title="Click to share on Facebook" ><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-6617" class="share-twitter sd-button share-icon" href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/?share=twitter" target="_blank" title="Click to share on Twitter" ><span>Twitter</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/#print" target="_blank" title="Click to print" ><span>Print</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="mailto:?subject=%5BShared%20Post%5D%20Exhibition%20to%20celebrate%20The%20Station%2C%20The%20Garage%20and%20The%20Bunker%2C%20November%202023&body=https%3A%2F%2Fthehippiesnowwearblack.org.uk%2F2023%2F08%2F08%2Fexhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023%2F&share=email" target="_blank" title="Click to email a link to a friend" data-email-share-error-title="Do you have email set up?" data-email-share-error-text="If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself." data-email-share-nonce="810cdcfa5a" data-email-share-track-url="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/?share=email"><span>Email</span></a></li><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/?share=pocket" target="_blank" title="Click to share on Pocket" ><span>Pocket</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/?share=reddit" target="_blank" title="Click to share on Reddit" ><span>Reddit</span></a></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/?share=tumblr" target="_blank" title="Click to share on Tumblr" ><span>Tumblr</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-6617" class="share-pinterest sd-button share-icon" href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/?share=pinterest" target="_blank" title="Click to share on Pinterest" ><span>Pinterest</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-566357-6617-64d35b29829a9' data-src='//widgets.wp.com/likes/index.html?ver=20230309#blog_id=566357&amp;post_id=6617&amp;origin=thehippiesnowwearblack.wordpress.com&amp;obj_id=566357-6617-64d35b29829a9&amp;domain=thehippiesnowwearblack.org.uk' data-name='like-post-frame-566357-6617-64d35b29829a9' data-title='Like or Reblog'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>
+							
+						</div>
+
+					
+					<footer class="post-footer">
+
+						
+							<div class="entry-author author-avatar-show">
+				<div class="author-avatar">
+			<img alt='' src='https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=100&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X' srcset='https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=100&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 1x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=150&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 1.5x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=200&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 2x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=300&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 3x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=400&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 4x' class='avatar avatar-100' height='100' width='100' loading='lazy' decoding='async' />		</div><!-- .author-avatar -->
+		
+		<div class="author-heading">
+			<h2 class="author-title">Published by <span class="author-name">Rich Cross</span></h2>
+		</div><!-- .author-heading -->
+
+		<p class="author-bio">
+			Researches, writes, presents and publishes about different aspects of anarcho-punk history, culture, music, politics and practice.			<a class="author-link" href="https://thehippiesnowwearblack.org.uk/author/thehippiesnowwearblack/" rel="author">
+				View all posts by Rich Cross			</a>
+		</p><!-- .author-bio -->
+	</div><!-- .entry-auhtor -->
+
+					</footer>
+
+				</div> <!-- /post-inner -->
+
+			</article> <!-- /post -->
+
+		
+	<nav class="navigation post-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://thehippiesnowwearblack.org.uk/2023/08/02/minor-compositions-discusses-punk-historiography-with-ian-glasper/" rel="prev"><span class="meta-nav" aria-hidden="true">Previous</span> <span class="screen-reader-text">Previous post:</span> <span class="navigation-post-title previous-post-title">Minor Compositions discusses punk historiography with Ian&nbsp;Glasper</span></a></div></div>
+	</nav>
+		
+<div id="comments" class="comments-area clear-fix">
+
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://thehippiesnowwearblack.org.uk/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="8c9f6de69e" /><input type="hidden" name="_wp_http_referer" value="/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment">
+		<textarea id="comment" name="comment" title="Enter your comment here..."></textarea>
+	</div>
+</div>
+
+<div id="comment-form-identity">
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" class="nascar-signin-link"
+				 title="Login via Guest" 				>
+									</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" class="nascar-signin-link"
+				 title="Login via WordPress.com" 				>
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#0087be" d="M12.158 12.786l-2.698 7.84c.806.236 1.657.365 2.54.365 1.047 0 2.05-.18 2.986-.51-.024-.037-.046-.078-.065-.123l-2.762-7.57zM3.008 12c0 3.56 2.07 6.634 5.068 8.092L3.788 8.342c-.5 1.117-.78 2.354-.78 3.658zm15.06-.454c0-1.112-.398-1.88-.74-2.48-.456-.74-.883-1.368-.883-2.11 0-.825.627-1.595 1.51-1.595.04 0 .078.006.116.008-1.598-1.464-3.73-2.36-6.07-2.36-3.14 0-5.904 1.613-7.512 4.053.21.008.41.012.58.012.94 0 2.395-.114 2.395-.114.484-.028.54.684.057.74 0 0-.487.058-1.03.086l3.275 9.74 1.968-5.902-1.4-3.838c-.485-.028-.944-.085-.944-.085-.486-.03-.43-.77.056-.742 0 0 1.484.114 2.368.114.94 0 2.397-.114 2.397-.114.486-.028.543.684.058.74 0 0-.488.058-1.03.086l3.25 9.665.897-2.997c.456-1.17.684-2.137.684-2.907zm1.82-3.86c.04.286.06.593.06.924 0 .912-.17 1.938-.683 3.22l-2.746 7.94c2.672-1.558 4.47-4.454 4.47-7.77 0-1.564-.4-3.033-1.1-4.314zM12 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></g></svg>				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" class="nascar-signin-link"
+				 title="Login via Facebook" 				>
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#3B5998" d="M20.007 3H3.993C3.445 3 3 3.445 3 3.993v16.013c0 .55.445.994.993.994h8.62v-6.97H10.27V11.31h2.346V9.31c0-2.325 1.42-3.59 3.494-3.59.993 0 1.847.073 2.096.106v2.43h-1.438c-1.128 0-1.346.537-1.346 1.324v1.734h2.69l-.35 2.717h-2.34V21h4.587c.548 0 .993-.445.993-.993V3.993c0-.548-.445-.993-.993-.993z"/></g></svg>				</a>
+			</li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img
+					src="https://s0.wp.com/i/mu.gif"
+					srcset="https://s0.wp.com/i/mu.gif 1x, https://s0.wp.com/i/mu.gif 1.5x, https://s0.wp.com/i/mu.gif 2x, https://s0.wp.com/i/mu.gif 3x, https://s0.wp.com/i/mu.gif 4x"					alt="Gravatar"
+					width="25"
+					class="no-grav"
+				/>
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img
+					src="https://s0.wp.com/i/mu.gif"
+					srcset="https://s0.wp.com/i/mu.gif 1x, https://s0.wp.com/i/mu.gif 1.5x, https://s0.wp.com/i/mu.gif 2x, https://s0.wp.com/i/mu.gif 3x, https://s0.wp.com/i/mu.gif 4x"					alt="WordPress.com Logo"
+					width="25"
+					class="no-grav"
+				/>
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+						<p class="comment-form-posting-as pa-wordpress">
+			<strong></strong>
+			You are commenting using your WordPress.com account.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#0087be" d="M12.158 12.786l-2.698 7.84c.806.236 1.657.365 2.54.365 1.047 0 2.05-.18 2.986-.51-.024-.037-.046-.078-.065-.123l-2.762-7.57zM3.008 12c0 3.56 2.07 6.634 5.068 8.092L3.788 8.342c-.5 1.117-.78 2.354-.78 3.658zm15.06-.454c0-1.112-.398-1.88-.74-2.48-.456-.74-.883-1.368-.883-2.11 0-.825.627-1.595 1.51-1.595.04 0 .078.006.116.008-1.598-1.464-3.73-2.36-6.07-2.36-3.14 0-5.904 1.613-7.512 4.053.21.008.41.012.58.012.94 0 2.395-.114 2.395-.114.484-.028.54.684.057.74 0 0-.487.058-1.03.086l3.275 9.74 1.968-5.902-1.4-3.838c-.485-.028-.944-.085-.944-.085-.486-.03-.43-.77.056-.742 0 0 1.484.114 2.368.114.94 0 2.397-.114 2.397-.114.486-.028.543.684.058.74 0 0-.488.058-1.03.086l3.25 9.665.897-2.997c.456-1.17.684-2.137.684-2.907zm1.82-3.86c.04.286.06.593.06.924 0 .912-.17 1.938-.683 3.22l-2.746 7.94c2.672-1.558 4.47-4.454 4.47-7.77 0-1.564-.4-3.033-1.1-4.314zM12 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img
+					src=""
+										alt="Facebook photo"
+					width="25"
+					class="no-grav"
+				/>
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+						<p class="comment-form-posting-as pa-facebook">
+			<strong></strong>
+			You are commenting using your Facebook account.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#3B5998" d="M20.007 3H3.993C3.445 3 3 3.445 3 3.993v16.013c0 .55.445.994.993.994h8.62v-6.97H10.27V11.31h2.346V9.31c0-2.325 1.42-3.59 3.494-3.59.993 0 1.847.073 2.096.106v2.43h-1.438c-1.128 0-1.346.537-1.346 1.324v1.734h2.69l-.35 2.717h-2.34V21h4.587c.548 0 .993-.445.993-.993V3.993c0-.548-.445-.993-.993-.993z"/></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function () {
+
+	function hide( sel ) {
+		var el = document.querySelector( sel );
+		if ( el ) {
+			el.style.setProperty( 'display', 'none' );
+		}
+	}
+
+	function show( sel ) {
+		var el = document.querySelector( sel );
+		if ( el ) {
+			el.style.removeProperty( 'display' );
+		}
+	}
+
+	var input = document.createElement( 'input' );
+	var comment = document.querySelector( '#comment' );
+
+	if ( input && comment && 'placeholder' in input ) {
+		var label = document.querySelector( '.comment-textarea label' );
+		if ( label ) {
+			var text = label.textContent;
+			label.parentNode.removeChild( label );
+			comment.setAttribute( 'placeholder', text );
+		}
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	hide( '#comment-form-identity' );
+	hide( '#comment-form-subscribe' );
+	hide( '#commentform .form-submit' );
+
+	if ( comment ) {
+		comment.style.height = '10px';
+
+		var handler = function () {
+			comment.style.height = HighlanderComments.initialHeight + 'px';
+			show( '#comment-form-identity' );
+			show( '#comment-form-subscribe' );
+			show( '#commentform .form-submit' );
+			HighlanderComments.resizeCallback();
+
+			comment.removeEventListener( 'focus', handler );
+		};
+
+		comment.addEventListener( 'focus', handler );
+	}
+}
+
+if ( document.readyState !== 'loading' ) {
+	highlander_expando_javascript();
+} else {
+	document.addEventListener( 'DOMContentLoaded', highlander_expando_javascript );
+}
+
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Notify me of new posts via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit button" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='6617' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="97a73cc9f9" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="241"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	<div style="clear: both"></div>
+</div><!-- #comments -->
+		
+	
+	</main> <!-- /content -->
+
+	
+<div class="sidebar">
+	<aside id="gravatar-3" class="widget widget_gravatar"><div class="widget-content"><p><img alt='' src='https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=128&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X' srcset='https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=128&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 1x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=192&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 1.5x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=256&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 2x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=384&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 3x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=512&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 4x' class='avatar avatar-128 grav-widget-none' height='128' width='128' loading='lazy' decoding='async' /></p>
+</div><div class="clear"></div></aside><aside id="text-3" class="widget widget_text"><div class="widget-content"><h3 class="widget-title">This site is&#8230;</h3>			<div class="textwidget"><p>&#8230;the online accompaniment to a variety of writing projects on the history, culture, politics and practice of British anarcho-punk, 1977-1984</p>
+</div>
+		</div><div class="clear"></div></aside><aside id="search-3" class="widget widget_search"><div class="widget-content">
+<form method="get" class="search-form" action="https://thehippiesnowwearblack.org.uk/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search" value="" name="s" title="Search for:" />
+	</label>
+	<button type="submit" class="search-button"><span class="fa fw fa-search"></span><span class="screen-reader-text">Search</span></button>
+</form>
+</div><div class="clear"></div></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><div class="widget-content"><h3 class="widget-title"><label for="subscribe-field">Follow this site</label></h3>
+
+			<div class="wp-block-jetpack-subscriptions__container">
+			<form
+				action="https://subscribe.wordpress.com"
+				method="post"
+				accept-charset="utf-8"
+				data-blog="566357"
+				data-post_access_level="everybody"
+				id="subscribe-blog"
+			>
+				<p>Enter your email address to follow this site and receive notifications of new posts by email.</p>
+				<p id="subscribe-email">
+					<label
+						id="subscribe-field-label"
+						for="subscribe-field"
+						class="screen-reader-text"
+					>
+						Email Address:					</label>
+
+					<input
+							type="email"
+							name="email"
+							
+							style="width: 95%; padding: 1px 10px"
+							placeholder="Email Address"
+							value=""
+							id="subscribe-field"
+							required
+						/>				</p>
+
+				<p id="subscribe-submit"
+									>
+					<input type="hidden" name="action" value="subscribe"/>
+					<input type="hidden" name="blog_id" value="566357"/>
+					<input type="hidden" name="source" value="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/"/>
+					<input type="hidden" name="sub-type" value="widget"/>
+					<input type="hidden" name="redirect_fragment" value="subscribe-blog"/>
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="5ba01739ed" />					<button type="submit"
+													class="wp-block-button__link"
+																	>
+						Follow					</button>
+				</p>
+			</form>
+							<div class="wp-block-jetpack-subscriptions__subscount">
+					Join 3,509 other subscribers				</div>
+						</div>
+			
+</div><div class="clear"></div></aside><aside id="block-3" class="widget widget_block"><div class="widget-content"><h3 class="widget-title">Most recent work...</h3>
+<p>Rich Cross. 2021. 'Rub Me Out: All My Songs and a Load of Other Stuff [review]', <em>Punk and Post-Punk</em>, Volume 10, Number 3, pp.538-540. 10.1386/punk_00122_5</p></div><div class="clear"></div></aside><aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widget_text widget-content"><h3 class="widget-title">And All Around Was Darkness</h3><div class="textwidget custom-html-widget"><p>Rich Cross. 2017. 'Fifteen shades of grey', in Greg Bull and Mike Dines (eds.), <em>And All Around Was Darkness</em>, Itchy Monkey Press, pp.218-227. ISBN 978-1-291-74025-7.</p>
+<p><img src="https://thehippiesnowwearblack.files.wordpress.com/2017/09/all_around_was_darkness.jpg" alt="And All Around Was Darkness"></p></div></div><div class="clear"></div></aside><aside id="text-4" class="widget widget_text"><div class="widget-content"><h3 class="widget-title">The Aesthetic of Our Anger</h3>			<div class="textwidget"><p>Rich Cross. 2016. '"Stop the City showed another possibility": Mobilisation and Movement in Anarcho-Punk', in Matt Worley and Mike Dines (eds.), <em>The Aesthetic of Our Anger: Anarcho-Punk, Politics, Music - 1979-1984</em>, Minor Compositions: Colchester / New York / Port Watson. ISBN 978-1-57027-318-6 [ <a href="http://www.minorcompositions.info/wp-content/uploads/2016/10/aestheticofouranger-web.pdf" target="_blank" rel="noopener"><strong>Free eBook download</strong></a> | Print copy <a href="http://www.minorcompositions.info/?p=791#more-791" target="_blank" rel="noopener"><strong>available to buy</strong></a> from Minor Compositions ]</p>
+<p><img src="https://thehippiesnowwearblack.files.wordpress.com/2016/10/aesthetic_of_our_anger.png" alt="The cover of The Aesthetic of Our Anger"></p>
+</div>
+		</div><div class="clear"></div></aside><aside id="text-5" class="widget widget_text"><div class="widget-content"><h3 class="widget-title">Some of us Scream</h3>			<div class="textwidget"><p>Rich Cross. 2016. '"Why do you think that they are laughing?", in Greg Bull and Mike Dines (eds.), <em>'Some of Us Scream Some of Us Shout': Myths, Folklore and Epic Tales of the Anarcho</em>, (Itchy Monkey Press) [ Buy from <a href="http://www.activedistributionshop.org/shop/punk-rock-books/3867-some-of-us-scream-some-of-us-shout.html" target="_blank" rel="noopener"><strong>Active Distribution</strong></a>  or <a href="http://www.situationpress.com/products/some-of-us-scream-some-of-us-shout" target="_blank" rel="noopener"><strong>Situation Press</strong></a> ]</p>
+<p><a href="http://www.activedistributionshop.org/shop/punk-rock-books/3867-some-of-us-scream-some-of-us-shout.html" target="_blank" rel="noopener"><img src="https://thehippiesnowwearblack.files.wordpress.com/2016/02/sous_cover.png" alt="Cover of Some of Us Scream, Some of Us Shout"></a></p>
+</div>
+		</div><div class="clear"></div></aside><aside id="facebook-likebox-3" class="widget widget_facebook_likebox"><div class="widget-content"><h3 class="widget-title"><a href="https://www.facebook.com/pages/The-Hippies-Now-Wear-Black/110896322270157">Facebook: HNWB</a></h3>		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/pages/The-Hippies-Now-Wear-Black/110896322270157" data-width="260"  data-height="450" data-hide-cover="false" data-show-facepile="true" data-tabs="false" data-hide-cta="false" data-small-header="false">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/pages/The-Hippies-Now-Wear-Black/110896322270157"><a href="https://www.facebook.com/pages/The-Hippies-Now-Wear-Black/110896322270157">Facebook: HNWB</a></blockquote></div>
+		</div>
+		</div><div class="clear"></div></aside><aside id="twitter_timeline-2" class="widget widget_twitter_timeline"><div class="widget-content"><h3 class="widget-title">Twitter: HNWB</h3><a class="twitter-timeline" data-width="250" data-theme="dark" data-border-color="#e8e8e8" data-tweet-limit="4" data-lang="EN" data-partner="jetpack" href="https://twitter.com/hnwb" href="https://twitter.com/hnwb">My Tweets</a></div><div class="clear"></div></aside><aside id="categories-1" class="widget widget_categories"><div class="widget-content"><h3 class="widget-title">Categories</h3>
+			<ul>
+					<li class="cat-item cat-item-494619"><a href="https://thehippiesnowwearblack.org.uk/category/about-anarcho-punk/">About anarcho-punk</a>
+</li>
+	<li class="cat-item cat-item-8979"><a href="https://thehippiesnowwearblack.org.uk/category/about-this-blog/">About this blog</a>
+</li>
+	<li class="cat-item cat-item-1435"><a href="https://thehippiesnowwearblack.org.uk/category/alternative/">Alternative</a>
+</li>
+	<li class="cat-item cat-item-294776132"><a href="https://thehippiesnowwearblack.org.uk/category/annie-anxiety-little-annie/">Annie Anxiety &#8211; Little Annie</a>
+</li>
+	<li class="cat-item cat-item-7590052"><a href="https://thehippiesnowwearblack.org.uk/category/anzahlung/">Anzahlung</a>
+</li>
+	<li class="cat-item cat-item-535988"><a href="https://thehippiesnowwearblack.org.uk/category/bullshit-detector/">Bullshit Detector</a>
+</li>
+	<li class="cat-item cat-item-182233372"><a href="https://thehippiesnowwearblack.org.uk/category/carol-hodge/">Carol Hodge</a>
+</li>
+	<li class="cat-item cat-item-11407906"><a href="https://thehippiesnowwearblack.org.uk/category/casette-tapes/">Casette tapes</a>
+</li>
+	<li class="cat-item cat-item-42339"><a href="https://thehippiesnowwearblack.org.uk/category/conflict/">Conflict</a>
+</li>
+	<li class="cat-item cat-item-149107"><a href="https://thehippiesnowwearblack.org.uk/category/crass/">Crass</a>
+</li>
+	<li class="cat-item cat-item-3128"><a href="https://thehippiesnowwearblack.org.uk/category/diary/">Diary</a>
+</li>
+	<li class="cat-item cat-item-57299"><a href="https://thehippiesnowwearblack.org.uk/category/documentaries/">Documentaries</a>
+</li>
+	<li class="cat-item cat-item-16693652"><a href="https://thehippiesnowwearblack.org.uk/category/eve-libertine/">Eve Libertine</a>
+</li>
+	<li class="cat-item cat-item-924"><a href="https://thehippiesnowwearblack.org.uk/category/events/">Events</a>
+</li>
+	<li class="cat-item cat-item-129067"><a href="https://thehippiesnowwearblack.org.uk/category/fanzines/">Fanzines</a>
+</li>
+	<li class="cat-item cat-item-721566"><a href="https://thehippiesnowwearblack.org.uk/category/freedom-anarchist-journal/">Freedom (anarchist journal)</a>
+</li>
+	<li class="cat-item cat-item-12620850"><a href="https://thehippiesnowwearblack.org.uk/category/gee-vaucher/">Gee Vaucher</a>
+</li>
+	<li class="cat-item cat-item-1213638"><a href="https://thehippiesnowwearblack.org.uk/category/george-berger-the-story-of-crass/">George Berger &#8211; The Story of Crass</a>
+</li>
+	<li class="cat-item cat-item-4539"><a href="https://thehippiesnowwearblack.org.uk/category/gigs/">Gigs</a>
+</li>
+	<li class="cat-item cat-item-1213639"><a href="https://thehippiesnowwearblack.org.uk/category/ian-glasper-the-day-the-country-died/">Ian Glasper &#8211; The Day the Country Died</a>
+</li>
+	<li class="cat-item cat-item-11788"><a href="https://thehippiesnowwearblack.org.uk/category/interview/">Interview</a>
+</li>
+	<li class="cat-item cat-item-831"><a href="https://thehippiesnowwearblack.org.uk/category/interviews/">Interviews</a>
+</li>
+	<li class="cat-item cat-item-2257009"><a href="https://thehippiesnowwearblack.org.uk/category/lance-hahn/">Lance Hahn</a>
+</li>
+	<li class="cat-item cat-item-13760050"><a href="https://thehippiesnowwearblack.org.uk/category/mick-duffield/">Mick Duffield</a>
+</li>
+	<li class="cat-item cat-item-17055"><a href="https://thehippiesnowwearblack.org.uk/category/obituaries/">Obituaries</a>
+</li>
+	<li class="cat-item cat-item-11969578"><a href="https://thehippiesnowwearblack.org.uk/category/omega-tribe/">Omega Tribe</a>
+</li>
+	<li class="cat-item cat-item-11396026"><a href="https://thehippiesnowwearblack.org.uk/category/penny-rimbaud/">Penny Rimbaud</a>
+</li>
+	<li class="cat-item cat-item-1708938"><a href="https://thehippiesnowwearblack.org.uk/category/photos-and-illustrations/">Photos and Illustrations</a>
+</li>
+	<li class="cat-item cat-item-21011539"><a href="https://thehippiesnowwearblack.org.uk/category/poison-girls/">Poison Girls</a>
+</li>
+	<li class="cat-item cat-item-2764"><a href="https://thehippiesnowwearblack.org.uk/category/press/">Press</a>
+</li>
+	<li class="cat-item cat-item-16489"><a href="https://thehippiesnowwearblack.org.uk/category/publishers/">Publishers</a>
+</li>
+	<li class="cat-item cat-item-183806727"><a href="https://thehippiesnowwearblack.org.uk/category/punk-scholars-network/">Punk Scholars Network</a>
+</li>
+	<li class="cat-item cat-item-5878"><a href="https://thehippiesnowwearblack.org.uk/category/releases/">Releases</a>
+</li>
+	<li class="cat-item cat-item-309"><a href="https://thehippiesnowwearblack.org.uk/category/reviews/">Reviews</a>
+</li>
+	<li class="cat-item cat-item-2502830"><a href="https://thehippiesnowwearblack.org.uk/category/rubella-ballet/">Rubella Ballet</a>
+</li>
+	<li class="cat-item cat-item-1311545"><a href="https://thehippiesnowwearblack.org.uk/category/rudimentary-peni/">Rudimentary Peni</a>
+</li>
+	<li class="cat-item cat-item-34944"><a href="https://thehippiesnowwearblack.org.uk/category/slice-of-life/">Slice of Life</a>
+</li>
+	<li class="cat-item cat-item-15122"><a href="https://thehippiesnowwearblack.org.uk/category/sources/">Sources</a>
+</li>
+	<li class="cat-item cat-item-2830284"><a href="https://thehippiesnowwearblack.org.uk/category/steve-ignorant/">Steve Ignorant</a>
+</li>
+	<li class="cat-item cat-item-4301875"><a href="https://thehippiesnowwearblack.org.uk/category/stop-the-city/">Stop the City</a>
+</li>
+	<li class="cat-item cat-item-1468584"><a href="https://thehippiesnowwearblack.org.uk/category/subhumans/">Subhumans</a>
+</li>
+	<li class="cat-item cat-item-6268315"><a href="https://thehippiesnowwearblack.org.uk/category/the-bunker/">The Bunker</a>
+</li>
+	<li class="cat-item cat-item-6013912"><a href="https://thehippiesnowwearblack.org.uk/category/the-cravats/">The Cravats</a>
+</li>
+	<li class="cat-item cat-item-667966"><a href="https://thehippiesnowwearblack.org.uk/category/the-garage/">The Garage</a>
+</li>
+	<li class="cat-item cat-item-579688"><a href="https://thehippiesnowwearblack.org.uk/category/the-hippies-now-wear-black/">The Hippies Now Wear Black</a>
+</li>
+	<li class="cat-item cat-item-115783619"><a href="https://thehippiesnowwearblack.org.uk/category/the-last-amendment/">The Last Amendment</a>
+</li>
+	<li class="cat-item cat-item-254980"><a href="https://thehippiesnowwearblack.org.uk/category/the-mob/">The Mob</a>
+</li>
+	<li class="cat-item cat-item-11174804"><a href="https://thehippiesnowwearblack.org.uk/category/the-shend/">The Shend</a>
+</li>
+	<li class="cat-item cat-item-2587620"><a href="https://thehippiesnowwearblack.org.uk/category/the-station/">The Station</a>
+</li>
+	<li class="cat-item cat-item-2322"><a href="https://thehippiesnowwearblack.org.uk/category/writings/">Writings</a>
+</li>
+	<li class="cat-item cat-item-1632027"><a href="https://thehippiesnowwearblack.org.uk/category/zounds/">Zounds</a>
+</li>
+			</ul>
+
+			</div><div class="clear"></div></aside>
+		<aside id="recent-posts-2" class="widget widget_recent_entries"><div class="widget-content">
+		<h3 class="widget-title">Recent Posts</h3>
+		<ul>
+											<li>
+					<a href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/" aria-current="page">Exhibition to celebrate The Station, The Garage and The Bunker, November&nbsp;2023</a>
+									</li>
+											<li>
+					<a href="https://thehippiesnowwearblack.org.uk/2023/08/02/minor-compositions-discusses-punk-historiography-with-ian-glasper/">Minor Compositions discusses punk historiography with Ian&nbsp;Glasper</a>
+									</li>
+											<li>
+					<a href="https://thehippiesnowwearblack.org.uk/2023/08/02/steve-ignorant-band-doing-it-our-way-book/">Steve Ignorant Band publishes &#8216;Doing It Our Way&#8217;&nbsp;book</a>
+									</li>
+											<li>
+					<a href="https://thehippiesnowwearblack.org.uk/2023/08/01/anarcho-artists-across-the-schedule-at-rebellion-2023/">Anarcho artists across the schedule at Rebellion&nbsp;2023</a>
+									</li>
+											<li>
+					<a href="https://thehippiesnowwearblack.org.uk/2023/07/24/bullshit-detector-re-issues-feature-in-bandcamp-daily/">Bullshit Detector re-issues feature in Bandcamp&nbsp;Daily</a>
+									</li>
+					</ul>
+
+		</div><div class="clear"></div></aside><aside id="text-2" class="widget widget_text"><div class="widget-content"><h3 class="widget-title">RSS feed</h3>			<div class="textwidget"><p><a href="http://feeds.feedburner.com/TheHippiesNowWearBlackBlog" rel="alternate"><img src="https://i0.wp.com/www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt=""></a>&nbsp;<a href="http://feeds.feedburner.com/TheHippiesNowWearBlackBlog" rel="alternate">Subscribe in a reader</a></p></div>
+		</div><div class="clear"></div></aside><aside id="rss-3" class="widget widget_rss"><div class="widget-content"><h3 class="widget-title"><a class="rsswidget" href="https://blog.pmpress.org/feed/atom/" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473i" alt="RSS" /></a> <a class="rsswidget" href="https://blog.pmpress.org/" title="">PM Press</a></h3><ul><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/08/interview-with-david-mclaren-we-go-where-they-go-the-story-of-anti-racist-action/' title='Get the book By A. Iwasa Razorcake We Go Where They Go:  The Story of Anti-Racist ActionBy Shannon Clay, Lady, Kristin Schwartz and Michael StaudenmaierLargely based on interviews with ex-participants, this book is a wild ride from the 1980s through the early 2000s of militant anti-Fascist organizing in the United States and Canada. The book doesn’t just cov [&hellip;]'>We Go Where They Go: The Story of Anti-Racist Action in Razorcake</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/08/fighting-times-with-jon-melrod-on-trillbilly-workers-party-podcast/' title='Get the book Listen HERE Activist, lawyer, author, and former autoworker Jon Melrod joins us this week to discuss his new book Fighting Times, and the militant union movement in the 1970s Buy Jon’s book here: pmpress.org/index.php?l=product_detail&amp;p=1289 Support us on Patreon: www.patreon.com/trillbillyworkersparty Outro music: hollybodyhollybody.bandcam [&hellip;]'>Fighting Times with Jon Melrod on Trillbilly Worker&#8217;s Party Podcast</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/07/dangerous-visions-and-new-worlds-in/' title='by Mark Scroggins SFRA Review Get the book Andrew Nette and Iain McIntyre’s essay collection Dangerous Visions and New Worlds, as its title indicates, focuses in the first case on the 1960s ‘New Wave’ in science fiction, a movement whose key moments include Michael Moorcock’s editorship of New Worlds (from 1964) and Harlan Ellison’s 1967 anthology Dangerous [&hellip;]'>Dangerous Visions and New Worlds in Science Fiction Research Association (SFRA) Review</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/06/world-ecology-and-the-capitalocene-w-jason-moore-on-guerrilla-history/' title='By Guerrilla History Get the Book Listen HERE Anthropocene or Capitalocene? Nature, History, and the Crisis of Capitalism In this episode of Guerrilla History, we bring on a good friend and comrade of ours, Professor Jason W. Moore!  In this fabulous conversation, we discuss world-ecology, the capitalocene, and how to view/analyze history through these lense [&hellip;]'>World-Ecology and the Capitalocene w/ Jason Moore on Guerrilla History</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/05/philippe-blouin-on-the-book-the-mohawk-warrior-society-a-handbook-on-sovereignty-and-survival-free-city-radio/' title='Get the book An interview with author and activist Philippe Blouin who was a co-editor of the important collection “The Mohawk Warrior Society: A Handbook on Sovereignty and Survival.” The project is described this way: “The first collection of its kind, this anthology by members of the Mohawk Warrior Society uncovers a hidden history and paints a bold portr [&hellip;]'>Philippe Blouin on the book &#8220;The Mohawk Warrior Society A Handbook on Sovereignty and Survival&#8221;—Free City Radio</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/04/the-subhumans-punk-historiography-with-ian-glasper-on-minor-compositions/' title='Minor Compositions Listen HERE Get Silence is No Reaction: Forty Years of Subhumans book Minor Compositions Podcast Episode 12: The Subhumans &amp; Punk Historiography with Ian GlasperFor this episode we talk with Ian Glasper about his book Silence Is No Reaction: Forty Years of Subhumans. In the conversation we cover broader issues of ‘punk historiography’ [&hellip;]'>The Subhumans &#038; Punk Historiography with Ian Glasper on Minor Compositions</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/03/food-activists-and-street-kitchens-cooking-revolutions-in-the-popular-pot/' title='By Virginia Tognola Get Nourishing Resistance Contents Introduction Book Extract Book Overview Access Book Watch Video Explore Further Introduction Across the globe grassroots food activists work to end hunger, strengthen communities, challenge inequality, and create sustainable social and environmental alternatives. Nourishing Resistance:  Stories of Food, [&hellip;]'>Food Activists and Street Kitchens: Cooking Revolutions in the Popular Pot</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/02/the-bootleg-coal-rebellion-a-world-wide-work-review/' title='By Matt Witt World Wide Work July 2023 The Bootleg Coal Rebellion by Mitch Troutman (PM Press). Based on interviews with participants, this is a heartening story of communities that organized themselves to meet economic needs when big corporations failed to do so. When big companies closed coal mines in eastern Pennsylvania during the Great Depression, miner [&hellip;]'>The Bootleg Coal Rebellion— A World Wide Work Review</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/01/raymond-craib-and-adventure-capitalism-on-the-dissenter/' title='The Dissenter Get the book RECORDED ON MARCH 14th 2023. Dr. Raymond Craib is Marie Underhill Noll Professor of History at Cornell University. His research and teaching interests revolve around the intersections of space, politics, and everyday practice. He is the author of Adventure Capitalism: A History of Libertarian Exit, from the Era of Decolonization to [&hellip;]'>Raymond Craib and Adventure Capitalism on The Dissenter</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/07/31/interview-with-harry-we-go-where-they-go-the-story-of-anti-racist-action/' title='Get the book December 13, 2019 We Go Where They Go: The Story of Anti-Racist Action was published in January 2023. Basedlargely on interviews with past participants, the book documents and analyses the history ofAnti-Racist Action (ARA), a youth-based network of groups and individuals, from the late 1980suntil the early 2000s.At its height, the ARA network i [&hellip;]'>Interview with Harry- We Go Where They Go: The Story of Anti-Racist Action</a></li></ul></div><div class="clear"></div></aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><div class="widget-content"><h3 class="widget-title">Tag cloud</h3><div style="overflow: hidden;"><a href="https://thehippiesnowwearblack.org.uk/category/about-anarcho-punk/" style="font-size: 213.75%; padding: 1px; margin: 1px;"  title="About anarcho-punk (97)">About anarcho-punk</a> <a href="https://thehippiesnowwearblack.org.uk/category/bullshit-detector/" style="font-size: 101.25%; padding: 1px; margin: 1px;"  title="Bullshit Detector (7)">Bullshit Detector</a> <a href="https://thehippiesnowwearblack.org.uk/category/casette-tapes/" style="font-size: 101.25%; padding: 1px; margin: 1px;"  title="Casette tapes (7)">Casette tapes</a> <a href="https://thehippiesnowwearblack.org.uk/category/conflict/" style="font-size: 110%; padding: 1px; margin: 1px;"  title="Conflict (14)">Conflict</a> <a href="https://thehippiesnowwearblack.org.uk/category/crass/" style="font-size: 203.75%; padding: 1px; margin: 1px;"  title="Crass (89)">Crass</a> <a href="https://thehippiesnowwearblack.org.uk/category/diary/" style="font-size: 121.25%; padding: 1px; margin: 1px;"  title="Diary (23)">Diary</a> <a href="https://thehippiesnowwearblack.org.uk/category/documentaries/" style="font-size: 101.25%; padding: 1px; margin: 1px;"  title="Documentaries (7)">Documentaries</a> <a href="https://thehippiesnowwearblack.org.uk/category/eve-libertine/" style="font-size: 112.5%; padding: 1px; margin: 1px;"  title="Eve Libertine (16)">Eve Libertine</a> <a href="https://thehippiesnowwearblack.org.uk/category/events/" style="font-size: 227.5%; padding: 1px; margin: 1px;"  title="Events (108)">Events</a> <a href="https://thehippiesnowwearblack.org.uk/tag/fanzines/" style="font-size: 102.5%; padding: 1px; margin: 1px;"  title="Fanzines (8)">Fanzines</a> <a href="https://thehippiesnowwearblack.org.uk/category/freedom-anarchist-journal/" style="font-size: 103.75%; padding: 1px; margin: 1px;"  title="Freedom (anarchist journal) (9)">Freedom (anarchist journal)</a> <a href="https://thehippiesnowwearblack.org.uk/category/gee-vaucher/" style="font-size: 145%; padding: 1px; margin: 1px;"  title="Gee Vaucher (42)">Gee Vaucher</a> <a href="https://thehippiesnowwearblack.org.uk/category/gigs/" style="font-size: 275%; padding: 1px; margin: 1px;"  title="Gigs (146)">Gigs</a> <a href="https://thehippiesnowwearblack.org.uk/category/interviews/" style="font-size: 105%; padding: 1px; margin: 1px;"  title="Interviews (10)">Interviews</a> <a href="https://thehippiesnowwearblack.org.uk/category/omega-tribe/" style="font-size: 116.25%; padding: 1px; margin: 1px;"  title="Omega Tribe (19)">Omega Tribe</a> <a href="https://thehippiesnowwearblack.org.uk/category/penny-rimbaud/" style="font-size: 180%; padding: 1px; margin: 1px;"  title="Penny Rimbaud (70)">Penny Rimbaud</a> <a href="https://thehippiesnowwearblack.org.uk/category/photos-and-illustrations/" style="font-size: 100%; padding: 1px; margin: 1px;"  title="Photos and Illustrations (6)">Photos and Illustrations</a> <a href="https://thehippiesnowwearblack.org.uk/category/poison-girls/" style="font-size: 127.5%; padding: 1px; margin: 1px;"  title="Poison Girls (28)">Poison Girls</a> <a href="https://thehippiesnowwearblack.org.uk/category/press/" style="font-size: 160%; padding: 1px; margin: 1px;"  title="Press (54)">Press</a> <a href="https://thehippiesnowwearblack.org.uk/?taxonomy=link_category&amp;term=publishers" style="font-size: 133.75%; padding: 1px; margin: 1px;"  title="Publishers (33)">Publishers</a> <a href="https://thehippiesnowwearblack.org.uk/category/punk-scholars-network/" style="font-size: 102.5%; padding: 1px; margin: 1px;"  title="Punk Scholars Network (8)">Punk Scholars Network</a> <a href="https://thehippiesnowwearblack.org.uk/category/releases/" style="font-size: 243.75%; padding: 1px; margin: 1px;"  title="Releases (121)">Releases</a> <a href="https://thehippiesnowwearblack.org.uk/category/reviews/" style="font-size: 102.5%; padding: 1px; margin: 1px;"  title="Reviews (8)">Reviews</a> <a href="https://thehippiesnowwearblack.org.uk/category/rubella-ballet/" style="font-size: 102.5%; padding: 1px; margin: 1px;"  title="Rubella Ballet (8)">Rubella Ballet</a> <a href="https://thehippiesnowwearblack.org.uk/category/slice-of-life/" style="font-size: 136.25%; padding: 1px; margin: 1px;"  title="Slice of Life (35)">Slice of Life</a> <a href="https://thehippiesnowwearblack.org.uk/category/sources/" style="font-size: 147.5%; padding: 1px; margin: 1px;"  title="Sources (44)">Sources</a> <a href="https://thehippiesnowwearblack.org.uk/category/steve-ignorant/" style="font-size: 205%; padding: 1px; margin: 1px;"  title="Steve Ignorant (90)">Steve Ignorant</a> <a href="https://thehippiesnowwearblack.org.uk/category/stop-the-city/" style="font-size: 101.25%; padding: 1px; margin: 1px;"  title="Stop the City (7)">Stop the City</a> <a href="https://thehippiesnowwearblack.org.uk/category/the-cravats/" style="font-size: 111.25%; padding: 1px; margin: 1px;"  title="The Cravats (15)">The Cravats</a> <a href="https://thehippiesnowwearblack.org.uk/category/writings/" style="font-size: 110%; padding: 1px; margin: 1px;"  title="Writings (14)">Writings</a> </div></div><div class="clear"></div></aside><aside id="search-3" class="widget widget_search"><div class="widget-content">
+<form method="get" class="search-form" action="https://thehippiesnowwearblack.org.uk/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search" value="" name="s" title="Search for:" />
+	</label>
+	<button type="submit" class="search-button"><span class="fa fw fa-search"></span><span class="screen-reader-text">Search</span></button>
+</form>
+</div><div class="clear"></div></aside><aside id="text-3" class="widget widget_text"><div class="widget-content"><h3 class="widget-title">This site is&#8230;</h3>			<div class="textwidget"><p>&#8230;the online accompaniment to a variety of writing projects on the history, culture, politics and practice of British anarcho-punk, 1977-1984</p>
+</div>
+		</div><div class="clear"></div></aside><aside id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widget_text widget-content"><h3 class="widget-title">Most recent work&#8230;</h3><div class="textwidget custom-html-widget"><p>Rich Cross. 2021. 'The "Crass logo"', in Ivana Vojnić Vatarić, Marko Vojnić, Mike Dines and Russ Bestley (eds.), I'm not Penny Rimbaud! Who the hell is Penny Rimbaud?, Itchy Monkey Press, pp.136-139. ISBN 9781800499263.</p></div></div><div class="clear"></div></aside><aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widget_text widget-content"><h3 class="widget-title">And All Around Was Darkness</h3><div class="textwidget custom-html-widget"><p>Rich Cross. 2017. 'Fifteen shades of grey', in Greg Bull and Mike Dines (eds.), <em>And All Around Was Darkness</em>, Itchy Monkey Press, pp.218-227. ISBN 978-1-291-74025-7.</p>
+<p><img src="https://thehippiesnowwearblack.files.wordpress.com/2017/09/all_around_was_darkness.jpg" alt="And All Around Was Darkness"></p></div></div><div class="clear"></div></aside><aside id="text-4" class="widget widget_text"><div class="widget-content"><h3 class="widget-title">The Aesthetic of Our Anger</h3>			<div class="textwidget"><p>Rich Cross. 2016. '"Stop the City showed another possibility": Mobilisation and Movement in Anarcho-Punk', in Matt Worley and Mike Dines (eds.), <em>The Aesthetic of Our Anger: Anarcho-Punk, Politics, Music - 1979-1984</em>, Minor Compositions: Colchester / New York / Port Watson. ISBN 978-1-57027-318-6 [ <a href="http://www.minorcompositions.info/wp-content/uploads/2016/10/aestheticofouranger-web.pdf" target="_blank" rel="noopener"><strong>Free eBook download</strong></a> | Print copy <a href="http://www.minorcompositions.info/?p=791#more-791" target="_blank" rel="noopener"><strong>available to buy</strong></a> from Minor Compositions ]</p>
+<p><img src="https://thehippiesnowwearblack.files.wordpress.com/2016/10/aesthetic_of_our_anger.png" alt="The cover of The Aesthetic of Our Anger"></p>
+</div>
+		</div><div class="clear"></div></aside><aside id="text-5" class="widget widget_text"><div class="widget-content"><h3 class="widget-title">Some of us Scream</h3>			<div class="textwidget"><p>Rich Cross. 2016. '"Why do you think that they are laughing?", in Greg Bull and Mike Dines (eds.), <em>'Some of Us Scream Some of Us Shout': Myths, Folklore and Epic Tales of the Anarcho</em>, (Itchy Monkey Press) [ Buy from <a href="http://www.activedistributionshop.org/shop/punk-rock-books/3867-some-of-us-scream-some-of-us-shout.html" target="_blank" rel="noopener"><strong>Active Distribution</strong></a>  or <a href="http://www.situationpress.com/products/some-of-us-scream-some-of-us-shout" target="_blank" rel="noopener"><strong>Situation Press</strong></a> ]</p>
+<p><a href="http://www.activedistributionshop.org/shop/punk-rock-books/3867-some-of-us-scream-some-of-us-shout.html" target="_blank" rel="noopener"><img src="https://thehippiesnowwearblack.files.wordpress.com/2016/02/sous_cover.png" alt="Cover of Some of Us Scream, Some of Us Shout"></a></p>
+</div>
+		</div><div class="clear"></div></aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><div class="widget-content"><h3 class="widget-title"><label for="subscribe-field-2">Follow this site</label></h3>
+
+			<div class="wp-block-jetpack-subscriptions__container">
+			<form
+				action="https://subscribe.wordpress.com"
+				method="post"
+				accept-charset="utf-8"
+				data-blog="566357"
+				data-post_access_level="everybody"
+				id="subscribe-blog-2"
+			>
+				<p>Enter your email address to follow this site and receive notifications of new posts by email.</p>
+				<p id="subscribe-email">
+					<label
+						id="subscribe-field-2-label"
+						for="subscribe-field-2"
+						class="screen-reader-text"
+					>
+						Email Address:					</label>
+
+					<input
+							type="email"
+							name="email"
+							
+							style="width: 95%; padding: 1px 10px"
+							placeholder="Email Address"
+							value=""
+							id="subscribe-field-2"
+							required
+						/>				</p>
+
+				<p id="subscribe-submit"
+									>
+					<input type="hidden" name="action" value="subscribe"/>
+					<input type="hidden" name="blog_id" value="566357"/>
+					<input type="hidden" name="source" value="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/"/>
+					<input type="hidden" name="sub-type" value="widget"/>
+					<input type="hidden" name="redirect_fragment" value="subscribe-blog-2"/>
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="5ba01739ed" />					<button type="submit"
+													class="wp-block-button__link"
+																	>
+						Follow					</button>
+				</p>
+			</form>
+							<div class="wp-block-jetpack-subscriptions__subscount">
+					Join 3,509 other subscribers				</div>
+						</div>
+			
+</div><div class="clear"></div></aside><aside id="facebook-likebox-3" class="widget widget_facebook_likebox"><div class="widget-content"><h3 class="widget-title"><a href="https://www.facebook.com/pages/The-Hippies-Now-Wear-Black/110896322270157">Facebook: HNWB</a></h3>		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/pages/The-Hippies-Now-Wear-Black/110896322270157" data-width="260"  data-height="450" data-hide-cover="false" data-show-facepile="true" data-tabs="false" data-hide-cta="false" data-small-header="false">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/pages/The-Hippies-Now-Wear-Black/110896322270157"><a href="https://www.facebook.com/pages/The-Hippies-Now-Wear-Black/110896322270157">Facebook: HNWB</a></blockquote></div>
+		</div>
+		</div><div class="clear"></div></aside><aside id="twitter_timeline-2" class="widget widget_twitter_timeline"><div class="widget-content"><h3 class="widget-title">Twitter: HNWB</h3><a class="twitter-timeline" data-width="250" data-theme="dark" data-border-color="#e8e8e8" data-tweet-limit="4" data-lang="EN" data-partner="jetpack" href="https://twitter.com/hnwb" href="https://twitter.com/hnwb">My Tweets</a></div><div class="clear"></div></aside><aside id="pages-2" class="widget widget_pages"><div class="widget-content"><h3 class="widget-title">About this blog</h3>
+			<ul>
+				<li class="page_item page-item-21"><a href="https://thehippiesnowwearblack.org.uk/contact/">Contact</a></li>
+<li class="page_item page-item-3767"><a href="https://thehippiesnowwearblack.org.uk/projects/">Projects</a></li>
+<li class="page_item page-item-7"><a href="https://thehippiesnowwearblack.org.uk/about-the-author/">The author</a></li>
+<li class="page_item page-item-10"><a href="https://thehippiesnowwearblack.org.uk/about-this-book/">The book</a></li>
+<li class="page_item page-item-18"><a href="https://thehippiesnowwearblack.org.uk/writings/">Writings</a></li>
+			</ul>
+
+			</div><div class="clear"></div></aside><aside id="categories-1" class="widget widget_categories"><div class="widget-content"><h3 class="widget-title">Categories</h3>
+			<ul>
+					<li class="cat-item cat-item-494619"><a href="https://thehippiesnowwearblack.org.uk/category/about-anarcho-punk/">About anarcho-punk</a>
+</li>
+	<li class="cat-item cat-item-8979"><a href="https://thehippiesnowwearblack.org.uk/category/about-this-blog/">About this blog</a>
+</li>
+	<li class="cat-item cat-item-1435"><a href="https://thehippiesnowwearblack.org.uk/category/alternative/">Alternative</a>
+</li>
+	<li class="cat-item cat-item-294776132"><a href="https://thehippiesnowwearblack.org.uk/category/annie-anxiety-little-annie/">Annie Anxiety &#8211; Little Annie</a>
+</li>
+	<li class="cat-item cat-item-7590052"><a href="https://thehippiesnowwearblack.org.uk/category/anzahlung/">Anzahlung</a>
+</li>
+	<li class="cat-item cat-item-535988"><a href="https://thehippiesnowwearblack.org.uk/category/bullshit-detector/">Bullshit Detector</a>
+</li>
+	<li class="cat-item cat-item-182233372"><a href="https://thehippiesnowwearblack.org.uk/category/carol-hodge/">Carol Hodge</a>
+</li>
+	<li class="cat-item cat-item-11407906"><a href="https://thehippiesnowwearblack.org.uk/category/casette-tapes/">Casette tapes</a>
+</li>
+	<li class="cat-item cat-item-42339"><a href="https://thehippiesnowwearblack.org.uk/category/conflict/">Conflict</a>
+</li>
+	<li class="cat-item cat-item-149107"><a href="https://thehippiesnowwearblack.org.uk/category/crass/">Crass</a>
+</li>
+	<li class="cat-item cat-item-3128"><a href="https://thehippiesnowwearblack.org.uk/category/diary/">Diary</a>
+</li>
+	<li class="cat-item cat-item-57299"><a href="https://thehippiesnowwearblack.org.uk/category/documentaries/">Documentaries</a>
+</li>
+	<li class="cat-item cat-item-16693652"><a href="https://thehippiesnowwearblack.org.uk/category/eve-libertine/">Eve Libertine</a>
+</li>
+	<li class="cat-item cat-item-924"><a href="https://thehippiesnowwearblack.org.uk/category/events/">Events</a>
+</li>
+	<li class="cat-item cat-item-129067"><a href="https://thehippiesnowwearblack.org.uk/category/fanzines/">Fanzines</a>
+</li>
+	<li class="cat-item cat-item-721566"><a href="https://thehippiesnowwearblack.org.uk/category/freedom-anarchist-journal/">Freedom (anarchist journal)</a>
+</li>
+	<li class="cat-item cat-item-12620850"><a href="https://thehippiesnowwearblack.org.uk/category/gee-vaucher/">Gee Vaucher</a>
+</li>
+	<li class="cat-item cat-item-1213638"><a href="https://thehippiesnowwearblack.org.uk/category/george-berger-the-story-of-crass/">George Berger &#8211; The Story of Crass</a>
+</li>
+	<li class="cat-item cat-item-4539"><a href="https://thehippiesnowwearblack.org.uk/category/gigs/">Gigs</a>
+</li>
+	<li class="cat-item cat-item-1213639"><a href="https://thehippiesnowwearblack.org.uk/category/ian-glasper-the-day-the-country-died/">Ian Glasper &#8211; The Day the Country Died</a>
+</li>
+	<li class="cat-item cat-item-11788"><a href="https://thehippiesnowwearblack.org.uk/category/interview/">Interview</a>
+</li>
+	<li class="cat-item cat-item-831"><a href="https://thehippiesnowwearblack.org.uk/category/interviews/">Interviews</a>
+</li>
+	<li class="cat-item cat-item-2257009"><a href="https://thehippiesnowwearblack.org.uk/category/lance-hahn/">Lance Hahn</a>
+</li>
+	<li class="cat-item cat-item-13760050"><a href="https://thehippiesnowwearblack.org.uk/category/mick-duffield/">Mick Duffield</a>
+</li>
+	<li class="cat-item cat-item-17055"><a href="https://thehippiesnowwearblack.org.uk/category/obituaries/">Obituaries</a>
+</li>
+	<li class="cat-item cat-item-11969578"><a href="https://thehippiesnowwearblack.org.uk/category/omega-tribe/">Omega Tribe</a>
+</li>
+	<li class="cat-item cat-item-11396026"><a href="https://thehippiesnowwearblack.org.uk/category/penny-rimbaud/">Penny Rimbaud</a>
+</li>
+	<li class="cat-item cat-item-1708938"><a href="https://thehippiesnowwearblack.org.uk/category/photos-and-illustrations/">Photos and Illustrations</a>
+</li>
+	<li class="cat-item cat-item-21011539"><a href="https://thehippiesnowwearblack.org.uk/category/poison-girls/">Poison Girls</a>
+</li>
+	<li class="cat-item cat-item-2764"><a href="https://thehippiesnowwearblack.org.uk/category/press/">Press</a>
+</li>
+	<li class="cat-item cat-item-16489"><a href="https://thehippiesnowwearblack.org.uk/category/publishers/">Publishers</a>
+</li>
+	<li class="cat-item cat-item-183806727"><a href="https://thehippiesnowwearblack.org.uk/category/punk-scholars-network/">Punk Scholars Network</a>
+</li>
+	<li class="cat-item cat-item-5878"><a href="https://thehippiesnowwearblack.org.uk/category/releases/">Releases</a>
+</li>
+	<li class="cat-item cat-item-309"><a href="https://thehippiesnowwearblack.org.uk/category/reviews/">Reviews</a>
+</li>
+	<li class="cat-item cat-item-2502830"><a href="https://thehippiesnowwearblack.org.uk/category/rubella-ballet/">Rubella Ballet</a>
+</li>
+	<li class="cat-item cat-item-1311545"><a href="https://thehippiesnowwearblack.org.uk/category/rudimentary-peni/">Rudimentary Peni</a>
+</li>
+	<li class="cat-item cat-item-34944"><a href="https://thehippiesnowwearblack.org.uk/category/slice-of-life/">Slice of Life</a>
+</li>
+	<li class="cat-item cat-item-15122"><a href="https://thehippiesnowwearblack.org.uk/category/sources/">Sources</a>
+</li>
+	<li class="cat-item cat-item-2830284"><a href="https://thehippiesnowwearblack.org.uk/category/steve-ignorant/">Steve Ignorant</a>
+</li>
+	<li class="cat-item cat-item-4301875"><a href="https://thehippiesnowwearblack.org.uk/category/stop-the-city/">Stop the City</a>
+</li>
+	<li class="cat-item cat-item-1468584"><a href="https://thehippiesnowwearblack.org.uk/category/subhumans/">Subhumans</a>
+</li>
+	<li class="cat-item cat-item-6268315"><a href="https://thehippiesnowwearblack.org.uk/category/the-bunker/">The Bunker</a>
+</li>
+	<li class="cat-item cat-item-6013912"><a href="https://thehippiesnowwearblack.org.uk/category/the-cravats/">The Cravats</a>
+</li>
+	<li class="cat-item cat-item-667966"><a href="https://thehippiesnowwearblack.org.uk/category/the-garage/">The Garage</a>
+</li>
+	<li class="cat-item cat-item-579688"><a href="https://thehippiesnowwearblack.org.uk/category/the-hippies-now-wear-black/">The Hippies Now Wear Black</a>
+</li>
+	<li class="cat-item cat-item-115783619"><a href="https://thehippiesnowwearblack.org.uk/category/the-last-amendment/">The Last Amendment</a>
+</li>
+	<li class="cat-item cat-item-254980"><a href="https://thehippiesnowwearblack.org.uk/category/the-mob/">The Mob</a>
+</li>
+	<li class="cat-item cat-item-11174804"><a href="https://thehippiesnowwearblack.org.uk/category/the-shend/">The Shend</a>
+</li>
+	<li class="cat-item cat-item-2587620"><a href="https://thehippiesnowwearblack.org.uk/category/the-station/">The Station</a>
+</li>
+	<li class="cat-item cat-item-2322"><a href="https://thehippiesnowwearblack.org.uk/category/writings/">Writings</a>
+</li>
+	<li class="cat-item cat-item-1632027"><a href="https://thehippiesnowwearblack.org.uk/category/zounds/">Zounds</a>
+</li>
+			</ul>
+
+			</div><div class="clear"></div></aside>
+		<aside id="recent-posts-2" class="widget widget_recent_entries"><div class="widget-content">
+		<h3 class="widget-title">Recent Posts</h3>
+		<ul>
+											<li>
+					<a href="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/" aria-current="page">Exhibition to celebrate The Station, The Garage and The Bunker, November&nbsp;2023</a>
+									</li>
+											<li>
+					<a href="https://thehippiesnowwearblack.org.uk/2023/08/02/minor-compositions-discusses-punk-historiography-with-ian-glasper/">Minor Compositions discusses punk historiography with Ian&nbsp;Glasper</a>
+									</li>
+											<li>
+					<a href="https://thehippiesnowwearblack.org.uk/2023/08/02/steve-ignorant-band-doing-it-our-way-book/">Steve Ignorant Band publishes &#8216;Doing It Our Way&#8217;&nbsp;book</a>
+									</li>
+											<li>
+					<a href="https://thehippiesnowwearblack.org.uk/2023/08/01/anarcho-artists-across-the-schedule-at-rebellion-2023/">Anarcho artists across the schedule at Rebellion&nbsp;2023</a>
+									</li>
+											<li>
+					<a href="https://thehippiesnowwearblack.org.uk/2023/07/24/bullshit-detector-re-issues-feature-in-bandcamp-daily/">Bullshit Detector re-issues feature in Bandcamp&nbsp;Daily</a>
+									</li>
+					</ul>
+
+		</div><div class="clear"></div></aside><aside id="recent-comments-2" class="widget widget_recent_comments"><div class="widget-content"><h3 class="widget-title">Recent Comments</h3>				<table class="recentcommentsavatar" cellspacing="0" cellpadding="0" border="0">
+					<tr><td title="Steve Ignorant Band publishes ‘Doing It Our Way’ book &#8211; The Free" class="recentcommentsavatartop" style="height:16px; width:16px;"><a href="http://thefreeonline.com/2023/08/02/steve-ignorant-band-publishes-doing-it-our-way-book/" rel="nofollow"><img alt='' src='https://thefreeonline.files.wordpress.com/2021/06/cropped-578846_422330724472178_1121762930_n-3.jpg?w=16' srcset='https://thefreeonline.files.wordpress.com/2021/06/cropped-578846_422330724472178_1121762930_n-3.jpg?w=16 1x, https://thefreeonline.files.wordpress.com/2021/06/cropped-578846_422330724472178_1121762930_n-3.jpg?w=24 1.5x, https://thefreeonline.files.wordpress.com/2021/06/cropped-578846_422330724472178_1121762930_n-3.jpg?w=32 2x, https://thefreeonline.files.wordpress.com/2021/06/cropped-578846_422330724472178_1121762930_n-3.jpg?w=48 3x, https://thefreeonline.files.wordpress.com/2021/06/cropped-578846_422330724472178_1121762930_n-3.jpg?w=64 4x' class='avatar avatar-16' height='16' width='16' loading='lazy' decoding='async' /></a></td><td class="recentcommentstexttop" style=""><a href="http://thefreeonline.com/2023/08/02/steve-ignorant-band-publishes-doing-it-our-way-book/" rel="nofollow">Steve Ignorant Band&hellip;</a> on <a href="https://thehippiesnowwearblack.org.uk/2023/08/02/steve-ignorant-band-doing-it-our-way-book/#comment-7575">Steve Ignorant Band publishes&hellip;</a></td></tr><tr><td title="Steve Ignorant Band publishes &#8216;Doing It Our Way&#8217; book &#8211; The Hippies Now Wear Black" class="recentcommentsavatarend" style="height:16px; width:16px;"><a href="https://thehippiesnowwearblack.org.uk/2023/08/02/steve-ignorant-band-doing-it-our-way-book/" rel="nofollow"><img alt='' src='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16' srcset='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16 1x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=24 1.5x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=32 2x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=48 3x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=64 4x' class='avatar avatar-16' height='16' width='16' loading='lazy' decoding='async' /></a></td><td class="recentcommentstextend" style=""><a href="https://thehippiesnowwearblack.org.uk/2023/08/02/steve-ignorant-band-doing-it-our-way-book/" rel="nofollow">Steve Ignorant Band&hellip;</a> on <a href="https://thehippiesnowwearblack.org.uk/2022/01/04/steve-ignorant-band-crass-songs-live-in-nottingham-2021-cd/#comment-7574">Steve Ignorant Band &#8211; Cr&hellip;</a></td></tr><tr><td title="Steve Ignorant Band publishes &#8216;Doing It Our Way&#8217; book &#8211; The Hippies Now Wear Black" class="recentcommentsavatarend" style="height:16px; width:16px;"><a href="https://thehippiesnowwearblack.org.uk/2023/08/02/steve-ignorant-band-doing-it-our-way-book/" rel="nofollow"><img alt='' src='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16' srcset='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16 1x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=24 1.5x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=32 2x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=48 3x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=64 4x' class='avatar avatar-16' height='16' width='16' loading='lazy' decoding='async' /></a></td><td class="recentcommentstextend" style=""><a href="https://thehippiesnowwearblack.org.uk/2023/08/02/steve-ignorant-band-doing-it-our-way-book/" rel="nofollow">Steve Ignorant Band&hellip;</a> on <a href="https://thehippiesnowwearblack.org.uk/2022/06/03/steve-ignorant-crass-songs-live-in-nottingham-2021-limited-vinyl-release/#comment-7573">Steve Ignorant, Crass Songs&hellip;</a></td></tr><tr><td title="Bullshit trilogy re-issue now available for pre-order ahead of June 2023 release &#8211; The Hippies Now Wear Black" class="recentcommentsavatarend" style="height:16px; width:16px;"><a href="https://thehippiesnowwearblack.org.uk/2023/05/02/bullshit-trilogy-re-issue-now-available-for-pre-order-ahead-of-june-2023-release/" rel="nofollow"><img alt='' src='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16' srcset='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16 1x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=24 1.5x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=32 2x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=48 3x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=64 4x' class='avatar avatar-16' height='16' width='16' loading='lazy' decoding='async' /></a></td><td class="recentcommentstextend" style=""><a href="https://thehippiesnowwearblack.org.uk/2023/05/02/bullshit-trilogy-re-issue-now-available-for-pre-order-ahead-of-june-2023-release/" rel="nofollow">Bullshit trilogy re-&hellip;</a> on <a href="https://thehippiesnowwearblack.org.uk/2023/04/28/crass-records-to-re-release-all-three-bullshit-detector-albums/#comment-7319">Crass Records to re-release al&hellip;</a></td></tr><tr><td title="Cease &amp; Resist album launch event, London, 11 May &#8211; The Hippies Now Wear Black" class="recentcommentsavatarend" style="height:16px; width:16px;"><a href="https://thehippiesnowwearblack.org.uk/2023/05/01/cease-resist-album-launch-event-london-11-may/" rel="nofollow"><img alt='' src='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16' srcset='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16 1x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=24 1.5x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=32 2x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=48 3x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=64 4x' class='avatar avatar-16' height='16' width='16' loading='lazy' decoding='async' /></a></td><td class="recentcommentstextend" style=""><a href="https://thehippiesnowwearblack.org.uk/2023/05/01/cease-resist-album-launch-event-london-11-may/" rel="nofollow">Cease &amp; Resist a&hellip;</a> on <a href="https://thehippiesnowwearblack.org.uk/2023/03/23/cease-resist-remixed-retrospective-double-album-compilation/#comment-7317">Cease &amp; Resist: remixed, r&hellip;</a></td></tr><tr><td title="Crass Records to re-release all three Bullshit Detector albums &#8211; The Hippies Now Wear Black" class="recentcommentsavatarend" style="height:16px; width:16px;"><a href="https://thehippiesnowwearblack.org.uk/2023/04/28/crass-records-to-re-release-all-three-bullshit-detector-albums/" rel="nofollow"><img alt='' src='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16' srcset='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16 1x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=24 1.5x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=32 2x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=48 3x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=64 4x' class='avatar avatar-16' height='16' width='16' loading='lazy' decoding='async' /></a></td><td class="recentcommentstextend" style=""><a href="https://thehippiesnowwearblack.org.uk/2023/04/28/crass-records-to-re-release-all-three-bullshit-detector-albums/" rel="nofollow">Crass Records to re-&hellip;</a> on <a href="https://thehippiesnowwearblack.org.uk/2022/11/11/rimbaud-talks-crass-records-to-record-collector-magazine/#comment-7312">Rimbaud talks Crass Records to&hellip;</a></td></tr><tr><td title="&#8216;I&#8217;m keeping it as busy as possible &#8211; the whole spectrum of Hodge&#8217; &#8211; The Hippies Now Wear Black" class="recentcommentsavatarend" style="height:16px; width:16px;"><a href="https://thehippiesnowwearblack.org.uk/2023/04/04/im-keeping-it-as-busy-as-possible-the-whole-spectrum-of-hodge/" rel="nofollow"><img alt='' src='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16' srcset='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16 1x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=24 1.5x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=32 2x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=48 3x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=64 4x' class='avatar avatar-16' height='16' width='16' loading='lazy' decoding='async' /></a></td><td class="recentcommentstextend" style=""><a href="https://thehippiesnowwearblack.org.uk/2023/04/04/im-keeping-it-as-busy-as-possible-the-whole-spectrum-of-hodge/" rel="nofollow">&#8216;I&#8217;m kee&hellip;</a> on <a href="https://thehippiesnowwearblack.org.uk/2011/11/20/rimbaud-and-libertine-join-ignorant-on-stage-during-last-outing-for-the-last-supper/#comment-7282">Rimbaud and Libertine join Ign&hellip;</a></td></tr><tr><td title="The Cravats live set from the 2011 Last Supper gig released &#8211; The Hippies Now Wear Black" class="recentcommentsavatarend" style="height:16px; width:16px;"><a href="https://thehippiesnowwearblack.org.uk/2023/03/22/the-cravats-live-set-from-the-2011-last-supper-gig-released/" rel="nofollow"><img alt='' src='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16' srcset='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=16 1x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=24 1.5x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=32 2x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=48 3x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=64 4x' class='avatar avatar-16' height='16' width='16' loading='lazy' decoding='async' /></a></td><td class="recentcommentstextend" style=""><a href="https://thehippiesnowwearblack.org.uk/2023/03/22/the-cravats-live-set-from-the-2011-last-supper-gig-released/" rel="nofollow">The Cravats live set&hellip;</a> on <a href="https://thehippiesnowwearblack.org.uk/2011/11/20/rimbaud-and-libertine-join-ignorant-on-stage-during-last-outing-for-the-last-supper/#comment-7259">Rimbaud and Libertine join Ign&hellip;</a></td></tr>				</table>
+				</div><div class="clear"></div></aside><aside id="text-1" class="widget widget_text"><div class="widget-content"><h3 class="widget-title">Email alerts</h3>			<div class="textwidget"><p><a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=872639">Subscribe to The Hippies Now Wear Black site by Email</a></p>
+</div>
+		</div><div class="clear"></div></aside><aside id="text-2" class="widget widget_text"><div class="widget-content"><h3 class="widget-title">RSS feed</h3>			<div class="textwidget"><p><a href="http://feeds.feedburner.com/TheHippiesNowWearBlackBlog" rel="alternate"><img src="https://i0.wp.com/www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt=""></a>&nbsp;<a href="http://feeds.feedburner.com/TheHippiesNowWearBlackBlog" rel="alternate">Subscribe in a reader</a></p></div>
+		</div><div class="clear"></div></aside><aside id="rss-3" class="widget widget_rss"><div class="widget-content"><h3 class="widget-title"><a class="rsswidget" href="https://blog.pmpress.org/feed/atom/" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473i" alt="RSS" /></a> <a class="rsswidget" href="https://blog.pmpress.org/" title="">PM Press</a></h3><ul><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/08/interview-with-david-mclaren-we-go-where-they-go-the-story-of-anti-racist-action/' title='Get the book By A. Iwasa Razorcake We Go Where They Go:  The Story of Anti-Racist ActionBy Shannon Clay, Lady, Kristin Schwartz and Michael StaudenmaierLargely based on interviews with ex-participants, this book is a wild ride from the 1980s through the early 2000s of militant anti-Fascist organizing in the United States and Canada. The book doesn’t just cov [&hellip;]'>We Go Where They Go: The Story of Anti-Racist Action in Razorcake</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/08/fighting-times-with-jon-melrod-on-trillbilly-workers-party-podcast/' title='Get the book Listen HERE Activist, lawyer, author, and former autoworker Jon Melrod joins us this week to discuss his new book Fighting Times, and the militant union movement in the 1970s Buy Jon’s book here: pmpress.org/index.php?l=product_detail&amp;p=1289 Support us on Patreon: www.patreon.com/trillbillyworkersparty Outro music: hollybodyhollybody.bandcam [&hellip;]'>Fighting Times with Jon Melrod on Trillbilly Worker&#8217;s Party Podcast</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/07/dangerous-visions-and-new-worlds-in/' title='by Mark Scroggins SFRA Review Get the book Andrew Nette and Iain McIntyre’s essay collection Dangerous Visions and New Worlds, as its title indicates, focuses in the first case on the 1960s ‘New Wave’ in science fiction, a movement whose key moments include Michael Moorcock’s editorship of New Worlds (from 1964) and Harlan Ellison’s 1967 anthology Dangerous [&hellip;]'>Dangerous Visions and New Worlds in Science Fiction Research Association (SFRA) Review</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/06/world-ecology-and-the-capitalocene-w-jason-moore-on-guerrilla-history/' title='By Guerrilla History Get the Book Listen HERE Anthropocene or Capitalocene? Nature, History, and the Crisis of Capitalism In this episode of Guerrilla History, we bring on a good friend and comrade of ours, Professor Jason W. Moore!  In this fabulous conversation, we discuss world-ecology, the capitalocene, and how to view/analyze history through these lense [&hellip;]'>World-Ecology and the Capitalocene w/ Jason Moore on Guerrilla History</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/05/philippe-blouin-on-the-book-the-mohawk-warrior-society-a-handbook-on-sovereignty-and-survival-free-city-radio/' title='Get the book An interview with author and activist Philippe Blouin who was a co-editor of the important collection “The Mohawk Warrior Society: A Handbook on Sovereignty and Survival.” The project is described this way: “The first collection of its kind, this anthology by members of the Mohawk Warrior Society uncovers a hidden history and paints a bold portr [&hellip;]'>Philippe Blouin on the book &#8220;The Mohawk Warrior Society A Handbook on Sovereignty and Survival&#8221;—Free City Radio</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/04/the-subhumans-punk-historiography-with-ian-glasper-on-minor-compositions/' title='Minor Compositions Listen HERE Get Silence is No Reaction: Forty Years of Subhumans book Minor Compositions Podcast Episode 12: The Subhumans &amp; Punk Historiography with Ian GlasperFor this episode we talk with Ian Glasper about his book Silence Is No Reaction: Forty Years of Subhumans. In the conversation we cover broader issues of ‘punk historiography’ [&hellip;]'>The Subhumans &#038; Punk Historiography with Ian Glasper on Minor Compositions</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/03/food-activists-and-street-kitchens-cooking-revolutions-in-the-popular-pot/' title='By Virginia Tognola Get Nourishing Resistance Contents Introduction Book Extract Book Overview Access Book Watch Video Explore Further Introduction Across the globe grassroots food activists work to end hunger, strengthen communities, challenge inequality, and create sustainable social and environmental alternatives. Nourishing Resistance:  Stories of Food, [&hellip;]'>Food Activists and Street Kitchens: Cooking Revolutions in the Popular Pot</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/02/the-bootleg-coal-rebellion-a-world-wide-work-review/' title='By Matt Witt World Wide Work July 2023 The Bootleg Coal Rebellion by Mitch Troutman (PM Press). Based on interviews with participants, this is a heartening story of communities that organized themselves to meet economic needs when big corporations failed to do so. When big companies closed coal mines in eastern Pennsylvania during the Great Depression, miner [&hellip;]'>The Bootleg Coal Rebellion— A World Wide Work Review</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/08/01/raymond-craib-and-adventure-capitalism-on-the-dissenter/' title='The Dissenter Get the book RECORDED ON MARCH 14th 2023. Dr. Raymond Craib is Marie Underhill Noll Professor of History at Cornell University. His research and teaching interests revolve around the intersections of space, politics, and everyday practice. He is the author of Adventure Capitalism: A History of Libertarian Exit, from the Era of Decolonization to [&hellip;]'>Raymond Craib and Adventure Capitalism on The Dissenter</a></li><li><a class='rsswidget' href='https://blog.pmpress.org/2023/07/31/interview-with-harry-we-go-where-they-go-the-story-of-anti-racist-action/' title='Get the book December 13, 2019 We Go Where They Go: The Story of Anti-Racist Action was published in January 2023. Basedlargely on interviews with past participants, the book documents and analyses the history ofAnti-Racist Action (ARA), a youth-based network of groups and individuals, from the late 1980suntil the early 2000s.At its height, the ARA network i [&hellip;]'>Interview with Harry- We Go Where They Go: The Story of Anti-Racist Action</a></li></ul></div><div class="clear"></div></aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><div class="widget-content"><h3 class="widget-title">Tag cloud</h3><div style="overflow: hidden;"><a href="https://thehippiesnowwearblack.org.uk/category/about-anarcho-punk/" style="font-size: 213.75%; padding: 1px; margin: 1px;"  title="About anarcho-punk (97)">About anarcho-punk</a> <a href="https://thehippiesnowwearblack.org.uk/category/bullshit-detector/" style="font-size: 101.25%; padding: 1px; margin: 1px;"  title="Bullshit Detector (7)">Bullshit Detector</a> <a href="https://thehippiesnowwearblack.org.uk/category/casette-tapes/" style="font-size: 101.25%; padding: 1px; margin: 1px;"  title="Casette tapes (7)">Casette tapes</a> <a href="https://thehippiesnowwearblack.org.uk/category/conflict/" style="font-size: 110%; padding: 1px; margin: 1px;"  title="Conflict (14)">Conflict</a> <a href="https://thehippiesnowwearblack.org.uk/category/crass/" style="font-size: 203.75%; padding: 1px; margin: 1px;"  title="Crass (89)">Crass</a> <a href="https://thehippiesnowwearblack.org.uk/category/diary/" style="font-size: 121.25%; padding: 1px; margin: 1px;"  title="Diary (23)">Diary</a> <a href="https://thehippiesnowwearblack.org.uk/category/documentaries/" style="font-size: 101.25%; padding: 1px; margin: 1px;"  title="Documentaries (7)">Documentaries</a> <a href="https://thehippiesnowwearblack.org.uk/category/eve-libertine/" style="font-size: 112.5%; padding: 1px; margin: 1px;"  title="Eve Libertine (16)">Eve Libertine</a> <a href="https://thehippiesnowwearblack.org.uk/category/events/" style="font-size: 227.5%; padding: 1px; margin: 1px;"  title="Events (108)">Events</a> <a href="https://thehippiesnowwearblack.org.uk/tag/fanzines/" style="font-size: 102.5%; padding: 1px; margin: 1px;"  title="Fanzines (8)">Fanzines</a> <a href="https://thehippiesnowwearblack.org.uk/category/freedom-anarchist-journal/" style="font-size: 103.75%; padding: 1px; margin: 1px;"  title="Freedom (anarchist journal) (9)">Freedom (anarchist journal)</a> <a href="https://thehippiesnowwearblack.org.uk/category/gee-vaucher/" style="font-size: 145%; padding: 1px; margin: 1px;"  title="Gee Vaucher (42)">Gee Vaucher</a> <a href="https://thehippiesnowwearblack.org.uk/category/gigs/" style="font-size: 275%; padding: 1px; margin: 1px;"  title="Gigs (146)">Gigs</a> <a href="https://thehippiesnowwearblack.org.uk/category/interviews/" style="font-size: 105%; padding: 1px; margin: 1px;"  title="Interviews (10)">Interviews</a> <a href="https://thehippiesnowwearblack.org.uk/category/omega-tribe/" style="font-size: 116.25%; padding: 1px; margin: 1px;"  title="Omega Tribe (19)">Omega Tribe</a> <a href="https://thehippiesnowwearblack.org.uk/category/penny-rimbaud/" style="font-size: 180%; padding: 1px; margin: 1px;"  title="Penny Rimbaud (70)">Penny Rimbaud</a> <a href="https://thehippiesnowwearblack.org.uk/category/photos-and-illustrations/" style="font-size: 100%; padding: 1px; margin: 1px;"  title="Photos and Illustrations (6)">Photos and Illustrations</a> <a href="https://thehippiesnowwearblack.org.uk/category/poison-girls/" style="font-size: 127.5%; padding: 1px; margin: 1px;"  title="Poison Girls (28)">Poison Girls</a> <a href="https://thehippiesnowwearblack.org.uk/category/press/" style="font-size: 160%; padding: 1px; margin: 1px;"  title="Press (54)">Press</a> <a href="https://thehippiesnowwearblack.org.uk/?taxonomy=link_category&amp;term=publishers" style="font-size: 133.75%; padding: 1px; margin: 1px;"  title="Publishers (33)">Publishers</a> <a href="https://thehippiesnowwearblack.org.uk/category/punk-scholars-network/" style="font-size: 102.5%; padding: 1px; margin: 1px;"  title="Punk Scholars Network (8)">Punk Scholars Network</a> <a href="https://thehippiesnowwearblack.org.uk/category/releases/" style="font-size: 243.75%; padding: 1px; margin: 1px;"  title="Releases (121)">Releases</a> <a href="https://thehippiesnowwearblack.org.uk/category/reviews/" style="font-size: 102.5%; padding: 1px; margin: 1px;"  title="Reviews (8)">Reviews</a> <a href="https://thehippiesnowwearblack.org.uk/category/rubella-ballet/" style="font-size: 102.5%; padding: 1px; margin: 1px;"  title="Rubella Ballet (8)">Rubella Ballet</a> <a href="https://thehippiesnowwearblack.org.uk/category/slice-of-life/" style="font-size: 136.25%; padding: 1px; margin: 1px;"  title="Slice of Life (35)">Slice of Life</a> <a href="https://thehippiesnowwearblack.org.uk/category/sources/" style="font-size: 147.5%; padding: 1px; margin: 1px;"  title="Sources (44)">Sources</a> <a href="https://thehippiesnowwearblack.org.uk/category/steve-ignorant/" style="font-size: 205%; padding: 1px; margin: 1px;"  title="Steve Ignorant (90)">Steve Ignorant</a> <a href="https://thehippiesnowwearblack.org.uk/category/stop-the-city/" style="font-size: 101.25%; padding: 1px; margin: 1px;"  title="Stop the City (7)">Stop the City</a> <a href="https://thehippiesnowwearblack.org.uk/category/the-cravats/" style="font-size: 111.25%; padding: 1px; margin: 1px;"  title="The Cravats (15)">The Cravats</a> <a href="https://thehippiesnowwearblack.org.uk/category/writings/" style="font-size: 110%; padding: 1px; margin: 1px;"  title="Writings (14)">Writings</a> </div></div><div class="clear"></div></aside><aside id="gravatar-3" class="widget widget_gravatar"><div class="widget-content"><p><img alt='' src='https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=128&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X' srcset='https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=128&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 1x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=192&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 1.5x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=256&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 2x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=384&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 3x, https://2.gravatar.com/avatar/26a52ddf480f0fe9f4707e7e9ea9b7a71c7befa327b2bacb3d6a909bfdc30271?s=512&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=X 4x' class='avatar avatar-128 grav-widget-none' height='128' width='128' loading='lazy' decoding='async' /></p>
+</div><div class="clear"></div></aside></div>
+
+	<div class="clear"></div>
+
+</div> <!-- /wrapper -->
+
+
+<footer class="site-footer">
+
+	<div class="section-inner">
+		<a href="#" class="to-the-top" title="To the top"><div class="fa fw fa-arrow-up"></div></a>
+		<p class="copyright">&copy; 2023 <a href="https://thehippiesnowwearblack.org.uk/" title="The Hippies Now Wear Black &mdash; The anarcho-punk movement in the UK, 1977-1984" rel="home">The Hippies Now Wear Black</a></p>
+		<p class="attribution"><a href="https://wordpress.com/?ref=footer_custom_svg" title="Create a website or blog at WordPress.com" rel="nofollow"><svg style="fill: currentColor; position: relative; top: 1px;" width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="title" role="img">
+				<desc id="title">Create a website or blog at WordPress.com</desc>
+				<path d="M12.5225848,4.97949746 C13.0138466,5.87586309 13.2934037,6.90452431 13.2934037,7.99874074 C13.2934037,10.3205803 12.0351007,12.3476807 10.1640538,13.4385638 L12.0862862,7.88081544 C12.4453251,6.98296834 12.5648813,6.26504621 12.5648813,5.62667922 C12.5648813,5.39497674 12.549622,5.17994084 12.5225848,4.97949746 L12.5225848,4.97949746 Z M7.86730089,5.04801561 C8.24619178,5.02808979 8.58760099,4.98823815 8.58760099,4.98823815 C8.9267139,4.94809022 8.88671369,4.44972248 8.54745263,4.46957423 C8.54745263,4.46957423 7.52803983,4.54957381 6.86996227,4.54957381 C6.25158863,4.54957381 5.21247202,4.46957423 5.21247202,4.46957423 C4.87306282,4.44972248 4.83328483,4.96816418 5.17254589,4.98823815 C5.17254589,4.98823815 5.49358462,5.02808979 5.83269753,5.04801561 L6.81314716,7.73459399 L5.43565839,11.8651647 L3.14394256,5.04801561 C3.52312975,5.02808979 3.86416859,4.98823815 3.86416859,4.98823815 C4.20305928,4.94809022 4.16305906,4.44972248 3.82394616,4.46957423 C3.82394616,4.46957423 2.80475558,4.54957381 2.14660395,4.54957381 C2.02852925,4.54957381 1.88934333,4.54668493 1.74156477,4.54194422 C2.86690406,2.83350881 4.80113651,1.70529256 6.99996296,1.70529256 C8.638342,1.70529256 10.1302017,2.33173369 11.2498373,3.35765419 C11.222726,3.35602457 11.1962815,3.35261718 11.1683554,3.35261718 C10.5501299,3.35261718 10.1114609,3.89113285 10.1114609,4.46957423 C10.1114609,4.98823815 10.4107217,5.42705065 10.7296864,5.94564049 C10.969021,6.36482346 11.248578,6.90326506 11.248578,7.68133501 C11.248578,8.21992476 11.0413918,8.84503256 10.7696866,9.71584277 L10.1417574,11.8132391 L7.86730089,5.04801561 Z M6.99996296,14.2927074 C6.38218192,14.2927074 5.78595654,14.2021153 5.22195356,14.0362644 L7.11048207,8.54925635 L9.04486267,13.8491542 C9.05760348,13.8802652 9.07323319,13.9089317 9.08989995,13.9358945 C8.43574834,14.1661896 7.73285573,14.2927074 6.99996296,14.2927074 L6.99996296,14.2927074 Z M0.706448182,7.99874074 C0.706448182,7.08630113 0.902152921,6.22015756 1.25141403,5.43749503 L4.25357806,13.6627848 C2.15393732,12.6427902 0.706448182,10.4898387 0.706448182,7.99874074 L0.706448182,7.99874074 Z M6.99996296,0.999 C3.14016476,0.999 0,4.13905746 0,7.99874074 C0,11.8585722 3.14016476,14.999 6.99996296,14.999 C10.8596871,14.999 14,11.8585722 14,7.99874074 C14,4.13905746 10.8596871,0.999 6.99996296,0.999 L6.99996296,0.999 Z" id="wordpress-logo-simplified-cmyk" stroke="none" fill=“currentColor” fill-rule="evenodd"></path>
+			</svg></a></p>
+	</div>
+
+</footer> <!-- /site-footer -->
+
+<!--  -->
+<script src='//0.gravatar.com/js/hovercards/hovercards.min.js?ver=2023326adb38d800002215faf6bd1f0f7003fcaf79a14f802daf4e489bdd9461e54910' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":""};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240i'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init(
+					'body',
+					'#wp-admin-bar-my-account',
+					{
+						i18n: {
+							'Edit your profile': 'Edit your profile',
+							'View profile': 'View profile',
+							'Sorry, we are unable to load this Gravatar profile.': 'Sorry, we are unable to load this Gravatar profile.',
+							'Sorry, we are unable to load this Gravatar profile. Please check your internet connection.': 'Sorry, we are unable to load this Gravatar profile. Please check your internet connection.',
+						},
+					}
+				);
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-e7db8eef7215f078e8c3e479b360dbfa">
+	</div>
+	</div>
+<script id='highlander-comments-js-extra'>
+var HighlanderComments = {"Name":"Name","(Address never made public)":"(Address never made public)","Website":"Website","loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","Logged in via %s":"Logged in via %s","Log out":"Log out","Email":"Email","Instantly":"Instantly","Daily":"Daily","Reply":"Reply","WordPress":"WordPress","Weekly":"Weekly","Notify me of new posts":"Notify me of new posts","Email me new posts":"Email me new posts","Email me new comments":"Email me new comments","Receive web and mobile notifications for posts on this site.":"Receive web and mobile notifications for posts on this site.","connectURL":"https:\/\/thehippiesnowwearblack.wordpress.com\/public.api\/connect\/?action=request&domain=thehippiesnowwearblack.org.uk","logoutURL":"https:\/\/thehippiesnowwearblack.wordpress.com\/wp-login.php?action=logout&_wpnonce=3d25dd967c","homeURL":"https:\/\/thehippiesnowwearblack.org.uk\/","postID":"6617","gravDefault":"blank","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","Login to leave a reply.":"Login to leave a reply.","optional":"optional","Cancel":"Cancel","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??/wp-content/js/textarea-autosize.min.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1663141412j'></script>
+	<div id="actionbar" style="display: none;"
+			class="actnbr-pub-rowling actnbr-has-follow">
+		<ul>
+								<li class="actnbr-btn actnbr-hidden">
+								<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+							<div class="actnbr-popover tip tip-top-left actnbr-notice" id="follow-bubble">
+							<div class="tip-arrow"></div>
+							<div class="tip-inner actnbr-follow-bubble">
+															<ul>
+											<li class="actnbr-sitename">
+			<a href="https://thehippiesnowwearblack.org.uk">
+				<img alt='' src='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=50' srcset='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=50 1x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=75 1.5x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=100 2x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=150 3x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=200 4x' class='avatar avatar-50' height='50' width='50' />				The Hippies Now Wear Black			</a>
+		</li>
+										<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" style="display: none;">
+																						<div class="actnbr-follow-count">Join 336 other followers</div>
+																					<div>
+										<input type="email" name="email" placeholder="Enter your email address" class="actnbr-email-field" aria-label="Enter your email address" />
+										</div>
+										<input type="hidden" name="action" value="subscribe" />
+										<input type="hidden" name="blog_id" value="566357" />
+										<input type="hidden" name="source" value="https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/" />
+										<input type="hidden" name="sub-type" value="actionbar-follow" />
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="5ba01739ed" />										<div class="actnbr-button-wrap">
+											<button type="submit" value="Sign me up">
+												Sign me up											</button>
+										</div>
+									</form>
+									<li class="actnbr-login-nudge">
+										<div>
+											Already have a WordPress.com account? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fthehippiesnowwearblack.org.uk%252F2023%252F08%252F08%252Fexhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023%252F">Log in now.</a>										</div>
+									</li>
+								</ul>
+															</div>
+						</div>
+					</li>
+							<li class="actnbr-ellipsis actnbr-hidden">
+				<svg class="gridicon gridicons-ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"/></g></svg>				<div class="actnbr-popover tip tip-top-left actnbr-more">
+					<div class="tip-arrow"></div>
+					<div class="tip-inner">
+						<ul>
+									<li class="actnbr-sitename">
+			<a href="https://thehippiesnowwearblack.org.uk">
+				<img alt='' src='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=50' srcset='https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=50 1x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=75 1.5x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=100 2x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=150 3x, https://thehippiesnowwearblack.files.wordpress.com/2017/03/cropped-hnwb-512-512.png?w=200 4x' class='avatar avatar-50' height='50' width='50' />				The Hippies Now Wear Black			</a>
+		</li>
+								<li class="actnbr-folded-customize">
+								<a href="https://thehippiesnowwearblack.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fthehippiesnowwearblack.wordpress.com%2F2023%2F08%2F08%2Fexhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023%2F">
+									<svg class="gridicon gridicons-customize" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2 1.657 0 3 1.343 3 3 0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98c-.62-.716-1.214-1.454-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34c.607.304 1.283.492 2.008.492 2.485 0 4.5-2.015 4.5-4.5 0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507C18.9 3.188 18.225 3 17.5 3 15.015 3 13 5.015 13 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848c1.885 1.928 3.874 3.753 5.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425c-1.695-2.103-3.52-4.092-5.448-5.977z"/></g></svg>									<span>Customize</span>
+								</a>
+							</li>
+																<li class="actnbr-folded-follow">
+												<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+										</li>
+																	<li class="actnbr-signup"><a href="https://wordpress.com/start/">Sign up</a></li>
+									<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fthehippiesnowwearblack.org.uk%252F2023%252F08%252F08%252Fexhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023%252F">Log in</a></li>
+																	<li class="actnbr-shortlink"><a href="https://wp.me/p2nkN-1IJ">Copy shortlink</a></li>
+																	<li class="flb-report">
+										<a href="http://en.wordpress.com/abuse/?report_url=https://thehippiesnowwearblack.org.uk/2023/08/08/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023/" target="_blank">
+											Report this content										</a>
+									</li>
+																	<li class="actnbr-reader">
+										<a href="https://wordpress.com/read/blogs/566357/posts/6617">
+											View post in Reader										</a>
+									</li>
+																	<li class="actnbr-subs">
+										<a href="https://subscribe.wordpress.com/">Manage subscriptions</a>
+									</li>
+																		<li class="actnbr-fold"><a href="">Collapse this bar</a></li>
+															</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?v=20210915";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20220329";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+
+			<div id="jp-carousel-loading-overlay">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading">&nbsp;</span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper-container jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<h2 class="jp-carousel-photo-caption"></h2>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<h2 class="jp-carousel-photo-title"></h2>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Loading Comments...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Email (Required)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Name (Required)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Website</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+							<a class="jp-carousel-image-download" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/thehippiesnowwearblack.org.uk\/2023\/08\/08\/exhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023\/":6617};
+	</script>
+						<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-3' href='https://s0.wp.com/_static/??-eJydjEEKgCAQAD+UrR6KLtFbTJfQdJXWxe9HUB/oOMMw0KtyhRpSgyyqJjkCMURs1brzZWAhyMVLQgZnryKMCbiHipfahXzC0TEP8H/2NZ94fltezbxMxkx61vEGx+U/hQ==&cssminify=yes' type='text/css' media='all' />
+<script id='coblocks-loader-js-extra'>
+var wpcom_coblocks_js = {"coblocks_masonry_js":"https:\/\/s0.wp.com\/wp-content\/plugins\/coblocks\/2.18.1-simple-rev.4\/dist\/js\/coblocks-masonry.min.js","coblocks_lightbox_js":"https:\/\/s0.wp.com\/wp-content\/plugins\/coblocks\/2.18.1-simple-rev.4\/dist\/js\/coblocks-lightbox.min.js","jquery_core_js":"\/wp-includes\/js\/jquery\/jquery.min.js","jquery_migrate_js":"\/wp-includes\/js\/jquery\/jquery-migrate.min.js","masonry_js":"\/wp-includes\/js\/masonry.min.js","imagesloaded_js":"\/wp-includes\/js\/imagesloaded.min.js"};
+var coblocksLigthboxData = {"closeLabel":"Close Gallery","leftLabel":"Previous","rightLabel":"Next"};
+</script>
+<script id='jetpack-facebook-embed-js-extra'>
+var jpfbembed = {"appid":"249643311490","locale":"en_US"};
+</script>
+<script id='jetpack-carousel-js-extra'>
+var jetpackSwiperLibraryPath = {"url":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/_inc\/build\/carousel\/swiper-bundle.min.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/thehippiesnowwearblack.org.uk\/wp-admin\/admin-ajax.php","nonce":"4e4fcfd66c","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/thehippiesnowwearblack.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fthehippiesnowwearblack.org.uk%2F2023%2F08%2F08%2Fexhibition-to-celebrate-the-station-the-garage-and-the-bunker-november-2023%2F","blog_id":"566357","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=566357&v=wpcom&tz=1&user_id=0&subd=thehippiesnowwearblack","is_public":"1"};
+</script>
+<script id='sharing-js-js-extra'>
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??-eJydketOwzAMhV+INOyGxg/Eo6Bc3M6tc1mcrNvbE8qKpm0CtH9x8p1jH0eOUZjgM/gse5YWDmggHpuen+TFkysiUunQsyQcgOW+QIGd8pYgXcMzaYKmYAaWy2axbRaC0UUCkeDQrKVFnjrOkKCgbPVy6K/98g5cbRmLlimMhL77EvKAUdRiEG0whUWLN1PfF7YERya0t4Pf520omiCrmEMX/ifpKGhFM4veULGVmuI6V3V1CZFO98JebLqHHJUZzrXk4uVH9ZKtMqBDGAQ4DfYBgzxizpBERgd1ZHjAQhckK41KoTDQDzZf/JFMDcgOslg1z99280WbJvi3UHMLMca6zKvy4SS8UwmssvY0Hes/niO8u7fFy3azWa9Xy9f+EygrMHI='></script>
+<script id="sharing-js-js-after" type="text/javascript">
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-pocket' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-pocket' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-tumblr' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-tumblr' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<iframe src='https://widgets.wp.com/likes/master.html?ver=20230309#ver=20230309&amp;origin=https://thehippiesnowwearblack.org.uk' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars'>
+		<div class="likes-text">
+			<span>%d</span> bloggers like this:		</div>
+		<ul class="wpl-avatars sd-like-gravatars"></ul>
+	</div>
+
+		<script src="//stats.wp.com/w.js?63" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'566357','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'566357','v':'wpcom','tz':'1','user_id':'0','post':'6617','subd':'thehippiesnowwearblack'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1mNzc2NTVTamdsd0xoLz9RQkM2K298TXY9bERQMXc2MjhEaVZfb2wwakRoSj0mUkp1THptM1NdbkV1WjZIcU9mVWQmPUIvMlN6Jk8wW3NYVEJ3dWZOWExuWD9PTi5ILXlnTnEsOXYuQl15WmM5RHwvOExdckMwWmpNbjJJSHhSNjlDX28ramtZOFhtLFNifGN8OXh8cUdvZFl0aGc2Q115TmxBaFUvbX42QzJGWFo2eV1RSVEuM3hdVjVmc0dpWW56TjVnLnhPZEcxM1NEP0JKYz1ldCZubyw0d1RYJU4yOUxNc0pHb3xvTGxlfng2flJPbz9pQ3A1W2dFZD1CfmVPNE8rQjhLLmNFTSZ0V1EmLE1fUVsmfkFnKzBFcnpCdEJuZXUyeT90LDJlTVplRix2WFA5LDkvfHxna3RLSXNOJnJKREJKRjZFb0E2YnVvZ3ltS0taTERQc1MtV0RabGV5eG5dSU4mXUg/c2YzLkk1OXJ1Ji1UPWxFWUc='}]);
+_stq.push([ 'clickTrackerInit', '566357', '6617' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
